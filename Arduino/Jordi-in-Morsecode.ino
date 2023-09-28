@@ -1,3 +1,8 @@
+int dot=1000;
+int dash=3000;
+int del=1000;
+int del3=3000;
+
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   pinMode(LED_BUILTIN, OUTPUT);
@@ -9,71 +14,71 @@ void setup() {
 void loop() {
   //J
   digitalWrite(13, 1);  
-  delay(1000);                      
+  delay(dot);                      
   digitalWrite(13, 0);   // delay of 1 second between dashes and dots on the same later
-  delay(1000);           
+  delay(del);           
     digitalWrite(13, 1);  
-  delay(3000);
+  delay(dash);
     digitalWrite(13, 0);   // delay of 1 second between dashes and dots on the same later
-  delay(1000);  
+  delay(del);  
      digitalWrite(13, 1);  
-  delay(3000);
+  delay(dash);
     digitalWrite(13, 0);   // delay of 1 second between dashes and dots on the same later
-  delay(1000);  
+  delay(del);  
    digitalWrite(13, 1);  
-  delay(3000);
+  delay(dash);
      digitalWrite(13, 0);  
-  delay(3000);
+  delay(del3);
 
   //O
     digitalWrite(13, 1);  
-    delay(3000);
+    delay(dash);
     digitalWrite(13, 0);   // delay of 1 second between dashes and dots on the same later
-  delay(1000);  
+  delay(del);  
      digitalWrite(13, 1);  
-  delay(3000);
+  delay(dash);
     digitalWrite(13, 0);   // delay of 1 second between dashes and dots on the same later
-  delay(1000);  
+  delay(del);  
    digitalWrite(13, 1);  
-  delay(3000);
+  delay(dash);
      digitalWrite(13, 0);  
-  delay(3000);
+  delay(del3);
 
   //R
     digitalWrite(13, 1);  
-  delay(1000);                      
+  delay(dot);                      
   digitalWrite(13, 0);   // delay of 1 second between dashes and dots on the same later
-  delay(1000);     
+  delay(del);     
      digitalWrite(13, 1);  
-  delay(3000);
+  delay(dash);
     digitalWrite(13, 0);   // delay of 1 second between dashes and dots on the same later
-  delay(1000);    
+  delay(del);    
     digitalWrite(13, 1);  
-  delay(1000);                      
+  delay(dot);                      
      digitalWrite(13, 0);  
-  delay(3000);  
+  delay(del3);  
 
   //D   
     digitalWrite(13, 1);  
-  delay(3000);
+  delay(dash);
     digitalWrite(13, 0);   // delay of 1 second between dashes and dots on the same later
-  delay(1000); 
+  delay(del); 
   digitalWrite(13, 1);  
-  delay(1000);                      
+  delay(dot);                      
   digitalWrite(13, 0);   // delay of 1 second between dashes and dots on the same later
-  delay(1000);   
+  delay(del);   
    digitalWrite(13, 1);  
-  delay(1000);                      
+  delay(dot);                      
     digitalWrite(13, 0);  
-  delay(3000);
+  delay(del3);
 
   //I
   digitalWrite(13, 1);  
-  delay(1000);                      
+  delay(dot);                      
   digitalWrite(13, 0);   // delay of 1 second between dashes and dots on the same later
-  delay(1000);   
+  delay(del);   
    digitalWrite(13, 1);  
-  delay(1000);                      
+  delay(dot);                      
      digitalWrite(13, 0);  
   delay(5000);
 }
