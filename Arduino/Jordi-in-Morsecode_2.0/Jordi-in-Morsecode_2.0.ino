@@ -86,5 +86,6 @@ void morse_D() {
   morse_R();
   morse_D();
   morse_I();
+  delay(3000);
   }
 
