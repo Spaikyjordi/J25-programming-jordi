@@ -1,0 +1,6 @@
+This Arduino codeimplements a simple cooking system that checks for the availability of ingredients to prepare a pizza based on a custom recipe. 
+The global variables masaPizza, queso, jamonDulce, oil, and tomate are used to keep track of the quantities of the different ingredients.
+The loop function continuously reads input from the Serial Monitor using Serial.readString().
+The decide function checks the input string. If it's "cook," it calls the cook function. If it's "masaPizza," it increments the masaPizza count and the same goes to every other ingredient.
+The cook function checks whether there are enough ingredients to make a pizza based on the predefined recipe. 
+If the conditions are met, it prints a message indicating that a pizza is being made and updates the ingredient quantities accordingly.
