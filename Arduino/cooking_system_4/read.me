@@ -1,0 +1,6 @@
+This Arduino sketch extends the cooking system to include a salad recipe. The salad requires ingredients such as lettuce, tomato, cucumber, olive oil, and salt. 
+The program monitors the quantities of these ingredients and checks whether there are enough to prepare a salad.
+New global variables (lettuce, tomato, cucumber, oliveOil, and salt) are introduced to keep track of salad ingredients.
+Then if the input is "tomate," it increments the tomate count and the same goes to every other ingredient.
+The decide function checks the input string. If it's "cook," it calls the cook function. If the input is "prepare" it calls the prepareSalad function. And substracts the ingredients that have been used.
+The "show" option in the input is added to display the current quantities of all ingredients.
