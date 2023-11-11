@@ -1,0 +1,10 @@
+This code was me experimenting with char and trying to write my name using char.
+This Arduino code prints the Morse code representation of the name "Jordi" to the Serial Monitor. 
+
+In the setup function, Serial.begin(9600); initializes the serial communication at a baud rate of 9600.
+
+The loop function is the main part of the code that runs continuously. In this loop:
+Morse code representations for each letter in "Jordi" are defined as character arrays (char j[] = ".---";, char o[] = "---";, etc.).
+Each letter's Morse code is printed using Serial.print with spaces between letters.
+Serial.println(); is used to move to a new line at the end of the name.
+delay(1000); introduces a 1-second delay between repetitions to make the Morse code readable in the Serial Monitor.
