@@ -1,1 +1,2 @@
-Turn an LED on and off. 
+This Arduino code expands on the previous code and now flashes the built-in LED on pin 13 to represent the Morse code for the word "JORDI." The Morse code for each letter is represented by a sequence of dots (short flashes) and dashes (long flashes), with pauses in between.
+After spelling "JORDI," the durations of dots, dashes, and pauses are halved to speed up the Morse code transmission, and the loop continues.
