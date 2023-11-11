@@ -1,0 +1,7 @@
+This Arduino code represents a simple cooking system that keeps track of ingredients (eggs, potato, onion, and oil). 
+And can create a Spanish Omelette if the specified conditions are met.
+The global variables eggs, potato, oil, and onion represent the quantities of each ingredient. The initial values are set in the code.
+The loop function continuously reads input from the Serial Monitor using Serial.readString(). 
+The decide function checks the input string. If it's "cook," it calls the cook function. If it's "potato," it increments the potato count.
+The cook function checks if there are enough ingredients to make a Spanish Omelette. 
+If so, it prints a message indicating that a Spanish Omelette can be made and updates the quantities of ingredients accordingly.
