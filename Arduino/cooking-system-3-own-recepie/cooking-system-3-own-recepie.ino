@@ -1,4 +1,4 @@
-//coking system 2 own recepie
+//coking system 3, own recepie
 //receipt: 1 masa pizza, 2 queso, 1 jamon dulce, oil, 2 tomate
 int masaPizza = 0;
 int queso = 0;
