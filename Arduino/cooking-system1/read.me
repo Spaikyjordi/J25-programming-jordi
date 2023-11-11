@@ -1,0 +1,8 @@
+This Arduino code implements a simple cooking system that reads input from the Serial Monitor and performs an action based on the input.
+The loop function continuously reads input from the Serial Monitor using Serial.readString().
+The decide function checks the input string and, if it equals "cook", calls the cook function.
+The cook function prints a message indicating that it is cooking.
+How ut works:
+You send "cook" through the Serial Monitor.
+The Arduino reads "cook," calls decide, and since the input matches "cook," it calls the cook function.
+The cook function prints "We are cooking Jessie" to the Serial Monitor.
