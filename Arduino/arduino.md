@@ -1,4 +1,5 @@
 # Blink Task 1
+---
 In the **setup function**:
 
 
@@ -18,11 +19,13 @@ In summary, the code initializes the LED pin, performs a specific sequence of tu
 
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/Blink-Task-1/Blink-Task-1.ino)
 # Blink Variation 1
+---
 Turn an LED on and off. 
 
 
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/Blink-Variation-01/Blink-Variation-01.ino)
 # Jordi in morse code
+---
 This Arduino code expands on the previous code and now flashes the built-in LED on pin 13 to represent the Morse code for the word "JORDI." 
 
 
@@ -32,6 +35,7 @@ with pauses in between.After spelling "JORDI," the durations of dots, dashes, an
 
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/Jordi-in-Morsecode/Jordi-in-Morsecode.ino)
 # Jordi in morse code 2
+---
 This Arduino code breaks down the Morse code for each letter into separate functions (example: morse_J(), morse_O(), etc.) to improve code organization and readability.
 
 
@@ -42,6 +46,7 @@ The loop function then calls each Morse code function for the letters 'J', 'O', 
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/Jordi-in-Morsecode_2.0/Jordi-in-Morsecode_2.0.ino)
 
 # Optional functional programming 3
+---
 This Arduino code defines functions for spelling out the Morse code representation of the word "JORDI" using the built-in LED on pin 13. 
 
 
@@ -51,6 +56,7 @@ The dotDuration variable controls the duration of a single dot.
 
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/OptionalFunctionalProgramming_3/OptionalFunctionalProgramming_3.ino)
 # Functional programming 5
+---
 This Arduino code spells out the Morse code representation of the word "JORDI" using the Serial Monitor. 
 Each letter is defined as a separate function (morseJ, morseO, etc.), and the Morse code for dots and dashes is printed using the Serial.print function.
 
@@ -61,6 +67,7 @@ The morseDot function prints a dot (.), and the morseDash function prints a dash
 
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/Functional-Programing5/Functional-Programing5.ino)
 # My name using char (experimenting)
+---
 This code was me experimenting with char and trying to write my name using char.
 This Arduino code prints the Morse code representation of the name "Jordi" to the Serial Monitor. 
 
