@@ -51,12 +51,12 @@
   ```C++
   const int LUYI= 5;
   ```
-# 🗿💻Common Statements in C++💻🗿
+## 🗿💻Common Statements in C++💻🗿
 - `A = A + 1`: Equivalent to `A++`.
 - `A++`: Same as the statement above.
 - `B = B - 1`: Equivalent to `B--`.
 - `B--`: Same as the statement above.
-## Naming Convention
+### Naming Convention
 - Variables cannot have spaces.
 - Use camel case for variable names. Example: `minutesToGoHome`
 
