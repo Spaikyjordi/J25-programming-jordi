@@ -54,12 +54,16 @@ In this **loop**:
 
 
 Morse code representations for each letter in "Jordi" are defined as character arrays 
+
+
 ```C++
 void loop() {
   // Define Morse code representations for each letter in "Jordi"
   char j[] = ".---";
   char o[] = "---";
 ```
+
+
 Each letter's Morse code is printed using Serial.print with spaces between letters.
 
 
