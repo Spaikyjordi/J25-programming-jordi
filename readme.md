@@ -113,6 +113,12 @@ goToMuseumPicasso();
 }
 else {goToDesignMuseum();}
 ```
+## Types of notation
+- camelCase → Methods and variables
+- PascalCase → Obejcts
+-Kebab-case → URL
+-Snake_case
+-SCREAMING_SNAKE_CASE → Constants
 ## Nested If (Example)
 "If" that are inside other "If"
 ```C++
