@@ -1,5 +1,5 @@
 # 📕First term Programming📕
-## Vocabulary 🥸☝
+## 🥸☝Vocabulary 🥸☝
 - **Algorithm**: An algorithm is a set of instructions that are followed to solve a problem. It's a computer's thought process.
 - **Arrays**: Arrays are containers that hold variables; they're used to group together similar variables. You can think of arrays like shelves at a pet store. The array would be the shelf, and the animals in cages are the variables inside.
 - **Bit**: The individual 1's and 0's you see in binary are called bits.
@@ -47,3 +47,37 @@
   int dotDuration;
   dotDuration = 500; //declaration of the value dotDuration
   ```
+- Variables that not change the value: **Constants**
+```C++
+const int LUYI= 5;
+```
+# 📚Functions in programming📚
+## Function Syntax in C++
+- **Definition:** return_type name(parameters)
+- **Void Function:** void nameOfTheFunction() { code }
+- **No spaces** allowed in the parameters.
+## Calling a Function
+```C++
+nameOfTheFunction();
+morse_J(); //example
+```
+## Example of Functions:
+- digitalWrite(int pin, 1 or 0)
+- delay()
+- pinMode(<pin>, <mode>)
+## Important⚠️
+- We cannot define a function inside the definition of another function.
+
+## Example of Setup and Loop Functions
+```C++
+void setup() {
+  // Setup code
+}
+
+void loop() {
+  // Looping code
+}
+```
+
+
+![CalculationMathGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/7a2a0e1e-93c5-42ff-9fd8-6a4f0cdd9712)
