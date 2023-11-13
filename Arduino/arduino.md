@@ -99,3 +99,81 @@ delay(1000); introduces a 1-second delay between repetitions to make the Morse c
 
 
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/My-name-using-char/My-name-using-char.ino)
+
+# Hello world
+---
+This simple Arduino code prints the message "Hello World" to the Serial Monitor and then waits for 1 second before repeating the process.
+In the setup function, Serial.begin(9600); initializes the serial communication at a baud rate of 9600. This allows communication between the Arduino and a connected computer through the USB port.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/Hello-world/Hello-world.ino)
+# Special message
+---
+This Arduino code prints a special message in the form of ASCII art to the Serial Monitor. 
+The art is a big bear.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/Special_message_Jordi/Special_message_Jordi.ino)
+# Cooking system 1
+---
+This Arduino code implements a simple cooking system that reads input from the Serial Monitor and performs an action based on the input.
+The loop function continuously reads input from the Serial Monitor using Serial.readString().
+The decide function checks the input string and, if it equals "cook", calls the cook function.
+The cook function prints a message indicating that it is cooking.
+
+
+How it **works**:
+
+
+You send "cook" through the Serial Monitor.
+The Arduino reads "cook," calls decide, and since the input matches "cook," it calls the cook function.
+The cook function prints "We are cooking Jessie" to the Serial Monitor.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/cooking-system1/cooking-system1.ino)
+# Cooking system 2
+---
+This Arduino code represents a simple cooking system that keeps track of ingredients (eggs, potato, onion, and oil). 
+And can create a Spanish Omelette if the specified conditions are met.
+The global variables eggs, potato, oil, and onion represent the quantities of each ingredient. The initial values are set in the code.
+
+
+The loop function continuously reads input from the Serial Monitor using Serial.readString(). 
+The decide function checks the input string. If it's "cook," it calls the cook function. If it's "potato," it increments the potato count.
+The cook function checks if there are enough ingredients to make a Spanish Omelette. 
+
+
+If so, it prints a message indicating that a Spanish Omelette can be made and updates the quantities of ingredients accordingly.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/cooking_system2/cooking_system2.ino)
+# Cooking system 3 own recepie
+---
+This Arduino codeimplements a simple cooking system that checks for the availability of ingredients to prepare a pizza based on a custom recipe. 
+The global variables masaPizza, queso, jamonDulce, oil, and tomate are used to keep track of the quantities of the different ingredients.
+
+
+The loop function continuously reads input from the Serial Monitor using Serial.readString().
+The decide function checks the input string. If it's "cook," it calls the cook function. If it's "masaPizza," it increments the masaPizza count and the same goes to every other ingredient.
+
+
+The **cook function** checks whether there are enough ingredients to make a pizza based on the predefined recipe. 
+If the conditions are met, it prints a message indicating that a pizza is being made and updates the ingredient quantities accordingly.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/cooking-system-3-own-recepie/cooking-system-3-own-recepie.ino)
+# Cooking system 4 inventory
+---
+This Arduino sketch extends the cooking system to include a salad recipe. The salad requires ingredients such as lettuce, tomato, cucumber, olive oil, and salt. 
+The program monitors the quantities of these ingredients and checks whether there are enough to prepare a salad.
+New global variables (lettuce, tomato, cucumber, oliveOil, and salt) are introduced to keep track of salad ingredients.
+
+
+Then if the input is "tomate," it increments the tomate count and the same goes to every other ingredient.
+The decide function checks the input string. If it's "cook," it calls the cook function. If the input is "prepare" it calls the prepareSalad function. And substracts the ingredients that have been used.
+
+
+The "show" option in the input is added to display the current quantities of all ingredients.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/cooking_system_4/cooking_system_4.ino)
