@@ -18,3 +18,32 @@
 
   
 ![SoExcited~GIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/49f8ded1-6d98-429a-a0f6-a0549ea6f2e3)
+
+## 🤖🧙‍♂️Programming Languages 🧙‍♂️🤖
+- **Brackets []**
+- **Parenthesis ()**
+- **Curly Braces {}**
+- **Micro Controller**: are a type of computers.
+- **LED**: Light Emiting Diode
+- **Variable**: A place in memory to store data, identified for retrieval.
+- **Variable Types**: Specify memory size and possibilities. Mandatory in some languages (e.g., C++).
+- **Programming Languages (PL):**
+  - Highly typed PL: C++
+  - Loosely typed PL: Python
+
+## 🤯👾Common Variables in C++👾🤯
+- **Building Blocks:**
+  - Object
+  - Numbers: `int`, `long`, `8int`, `8u int`, `float`
+  - Strings
+  - Char: Character
+  - Booleans: `true`/`false`
+ 
+
+![DiesCatGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/0a8cd85e-70ba-43ea-9eee-ceefcbeaa866) 
+ ## 👨‍💻Syntax of Variables in C++👨‍💻
+- **Declaration:**
+  ```C++
+  int dotDuration;
+  dotDuration = 500; //declaration of the value dotDuration
+  ```
