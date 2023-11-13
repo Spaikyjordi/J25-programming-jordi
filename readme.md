@@ -111,9 +111,7 @@ Bool me(gusta Picasso = false;
 If(meGustaPicasso) {
 goToMuseumPicasso();
 }
-else {goToDesignMuseum();{
-//code
-}
+else {goToDesignMuseum();}
 ```
 ## Nested If (Example)
 "If" that are inside other "If"
