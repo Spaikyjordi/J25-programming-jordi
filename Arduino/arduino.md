@@ -53,7 +53,13 @@ In the setup function, Serial.begin(9600); initializes the serial communication 
 In this **loop**:
 
 
-Morse code representations for each letter in "Jordi" are defined as character arrays (char j[] = ".---";, char o[] = "---";, etc.).
+Morse code representations for each letter in "Jordi" are defined as character arrays 
+´´´C++
+void loop() {
+  // Define Morse code representations for each letter in "Jordi"
+  char j[] = ".---";
+  char o[] = "---";
+ ´´´
 Each letter's Morse code is printed using Serial.print with spaces between letters.
 
 
