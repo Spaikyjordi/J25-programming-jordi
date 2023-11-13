@@ -134,8 +134,8 @@ Else if is an extra condition. Programming languages need to be consistent and u
 - != : Different value
 - < : Lesser than
 - <= : Lesser or equal than
-- > : Greater than
-- >= : Greater or equal than
+- ">": Greater than
+- ">=": Greater or equal than
 ## Combo Burger (Boolean Operators)
 - &&: AND operator
 - ||: OR operator
