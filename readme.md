@@ -185,7 +185,7 @@ If(TRdelivered && meanGrade >= 5 && allFinalTestPassed)
   
 ![MenheraChanChibiGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/e66dbfb3-f627-404e-a7e0-4398d409efb7)
 
-## Scope in PL
+# Scope in PL
 // extended info from class
 ## Introduction
 In programming languages, scope defines the region of the program where a specific variable can be accessed or modified.
