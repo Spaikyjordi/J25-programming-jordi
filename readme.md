@@ -125,6 +125,13 @@ if (patatas) {
   pedirSushi();
 }
 ```
+| Huevos | Patatas | Execution |
+| ------ | ------- | --------- |
+| False  | False   | ps;       |
+| False  | True    | f;        |
+| True   | False   | ps;       |
+| True   | True    | t;f;      |
+
 ## Boolean Variable (bool)
 If the variable value is true, then we go inside the if. If the variable value is false, then we don’t go inside the if. If there is an else, we go inside the else.
 ## Else if
@@ -140,6 +147,34 @@ Else if is an extra condition. Programming languages need to be consistent and u
 - &&: AND operator
 - ||: OR operator
 - !: NOT operator
+```c++
+//eggsInTheFridge
+//potatoesInTheKitchen
+
+if(eggsInTheFridge && potatoesInTheKitchen) {
+   cookSpanishOmelette();
+}
+```
+```c++
+if(cocoaOpen || titusOpen) {
+       goToDisco();
+}
+```
+```c++
+If ((eggsInTheFridge && potatoesInTheKitchen) || sausagesInTheKitchen) {
+    cookSomeThing();
+}
+else (goToKebab)();}
+```
+```c++
+if (¡eggsInTheFridge) {
+    goToBuySomeEggs();
+}
+```
+```c++
+If(TRdelivered && meanGrade >= 5 && allFinalTestPassed)
+(deliveredBachilleratoTitle());}
+```
 
   
 ![MenheraChanChibiGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/e66dbfb3-f627-404e-a7e0-4398d409efb7)
