@@ -185,7 +185,7 @@ If(TRdelivered && meanGrade >= 5 && allFinalTestPassed)
   
 ![MenheraChanChibiGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/e66dbfb3-f627-404e-a7e0-4398d409efb7)
 
-# Scope in PL
+# 🥷🕸️Scope in PL🕸️🥷
 // extended info from class
 ## Introduction
 In programming languages, scope defines the region of the program where a specific variable can be accessed or modified.
@@ -234,4 +234,43 @@ int main() {
 
 ![6f0a16aa1b1310912e82f2d605d5601c](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/c8c07188-7063-439d-a1dd-eb85472d3603)
 
-# Strings
+# 🪢🕹️Strings🕹️🪢
+// extended info from class
+## Introduction
+In programming, a string is a sequence of characters. It is a fundamental data type used to represent text. Strings are commonly manipulated for tasks such as input/output, text processing, and data storage.
+## Declaration and Initialization
+```C++
+// Declaration and initialization of strings
+std::string greeting = "Hello, ";
+std::string name = "World!";
+```
+## Concatenation
+Strings can be combined using the + operator, a process known as concatenation.
+```C++
+std::string message = greeting + name; // Results in "Hello, World!"
+```
+## String Length
+The length of a string can be obtained using the length() or size() member functions.
+```C++
+int length = message.length(); // Length is 13
+```
+## Substrings
+Portions of a string can be extracted using the substr() function.
+```C++
+std::string sub = message.substr(7, 5); // Extracts "World"
+```
+## String Comparison
+Strings can be compared using relational operators (==, !=, <, >, <=, >=).
+```C++
+bool isEqual = (greeting == name); // Evaluates to false
+```
+## String Manipulation
+Various functions are available for manipulating strings, such as finding substrings, replacing characters, and converting case.
+```C++
+// Example: Converting to uppercase
+std::transform(message.begin(), message.end(), message.begin(), ::toupper);
+```
+
+
+![ezgif com-video-to-gif-7](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/784dbaf1-5571-4a10-92ed-9e4cbcf59df3)
+
