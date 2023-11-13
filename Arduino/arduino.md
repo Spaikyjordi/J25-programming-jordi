@@ -61,6 +61,10 @@ void loop() {
   // Define Morse code representations for each letter in "Jordi"
   char j[] = ".---";
   char o[] = "---";
+  char o[] = "---";
+  char r[] = ".-.";
+  char d[] = "-..";
+  char i[] = "..";
 ```
 
 
