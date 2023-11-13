@@ -68,8 +68,7 @@ void loop() {
 ```
 
 
-Each letter's Morse code is printed using Serial.print with spaces between letters.
+Each letter's Morse code is printed using Serial.print with spaces between letters. Serial.println(); is used to move to a new line at the end of the name.
 
 
-Serial.println(); is used to move to a new line at the end of the name.
 delay(1000); introduces a 1-second delay between repetitions to make the Morse code readable in the Serial Monitor. [code)(https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/My-name-using-char/My-name-using-char.ino)
