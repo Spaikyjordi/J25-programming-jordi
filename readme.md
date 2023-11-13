@@ -60,9 +60,6 @@
 - Variables cannot have spaces.
 - Use camel case for variable names. Example: `minutesToGoHome`
 
-  
-![MenheraChanChibiGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/5102d7b8-b7eb-4065-bce3-a2e201f46c5b)
-
 # 📚Functions in programming📚
 ## Function Syntax in C++
 - **Definition:** return_type name(parameters)
@@ -93,3 +90,58 @@ void loop() {
 
 
 ![CalculationMathGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/7a2a0e1e-93c5-42ff-9fd8-6a4f0cdd9712)
+
+
+# 🎚️Flow Control🎚️
+## ❌Booleans✅ 
+Booleans are variables that can be true or false.
+## Operators of Comparison
+```C++
+if (condition) {
+  // Code executed if the condition is true
+} else {
+  // Code executed if the condition is false
+}
+// Code executed in both cases
+```
+## Determining if the Condition is True
+We use a boolean. If the boolean value is true, the condition is true. If the boolean value is false, then the condition is not met.
+```
+Bool me(gusta Picasso = false;
+If(meGustaPicasso) {
+goToMuseumPicasso();
+}
+else {goToDesignMuseum();{
+//code
+}
+```
+## Nested If (Example)
+"If" that are inside other "If"
+```C++
+if (patatas) {
+  if (huevos) {
+    Tortilla();
+  }
+  Freir();
+} else {
+  pedirSushi();
+}
+```
+## Boolean Variable (bool)
+If the variable value is true, then we go inside the if. If the variable value is false, then we don’t go inside the if. If there is an else, we go inside the else.
+## Else if
+Else if is an extra condition. Programming languages need to be consistent and univocal. That’s why we use = for assignment and == for comparison.
+## Comparators
+- ==: Compare if same value
+- !=: Different value
+- <: Lesser than
+- <=: Lesser or equal than
+- >: Greater than
+- >=: Greater or equal than
+## Combo Burger (Boolean Operators)
+- &&: AND operator
+- ||: OR operator
+- !: NOT operator
+
+  
+![MenheraChanChibiGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/e66dbfb3-f627-404e-a7e0-4398d409efb7)
