@@ -9,6 +9,8 @@ Repository for students of the course of programming  in 1st Bachillerato
 
 ## Explanations of code
 [Arduino.md](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/arduino.md)
+## Notes from class
+[Notes](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/apuntes.md)
 
 ## Tools for help
 ### [Markdown Cheat sheet](https://www.markdownguide.org/cheat-sheet)
