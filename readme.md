@@ -184,3 +184,54 @@ If(TRdelivered && meanGrade >= 5 && allFinalTestPassed)
 
   
 ![MenheraChanChibiGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/e66dbfb3-f627-404e-a7e0-4398d409efb7)
+
+## Scope in PL
+// extended info from class
+## Introduction
+In programming languages, scope defines the region of the program where a specific variable can be accessed or modified.
+## Global Scope
+Variables declared outside any function or block have global scope. They can be accessed from any part of the program, including within functions and blocks.
+```C++
+int globalVariable = 10;  // Global variable
+void setup(){
+//code
+}
+```
+## Local Scope
+Variables declared within a function or block have local scope. They are only accessible within that specific function or block.
+```C++
+void setup(){
+  // Local variable
+  int localVar = 20;
+  // localVar is only accessible within this block
+}
+```
+## Function Scope
+Parameters and variables declared in a function have function scope. They are accessible only within the function where they are declared.
+```C++
+void exampleFunction(int parameter) {
+    // parameter and localVariable have function scope
+    int localVariable = parameter + 5;
+}
+```
+## Block Scope
+Variables declared within a block of code (inside curly braces {}) have block scope. They are only accessible within that specific block.
+```C++
+int main() {
+    // outerVar is accessible within this block
+    int outerVar = 30;
+
+    {
+        // innerVar is only accessible within this nested block
+        int innerVar = 40;
+    }
+
+    // Attempting to access innerVar here would result in an error
+    return 0;
+}
+```
+
+
+![6f0a16aa1b1310912e82f2d605d5601c](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/c8c07188-7063-439d-a1dd-eb85472d3603)
+
+# Strings
