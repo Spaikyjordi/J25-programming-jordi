@@ -48,9 +48,9 @@
   dotDuration = 500; //declaration of the value dotDuration
   ```
 - Variables that not change the value: **Constants**
-```C++
-const int LUYI= 5;
-```
+  ```C++
+  const int LUYI= 5;
+  ```
 # 📚Functions in programming📚
 ## Function Syntax in C++
 - **Definition:** return_type name(parameters)
