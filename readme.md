@@ -60,6 +60,9 @@
 - Variables cannot have spaces.
 - Use camel case for variable names. Example: `minutesToGoHome`
 
+  
+![MenheraChanChibiGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/5102d7b8-b7eb-4065-bce3-a2e201f46c5b)
+
 # 📚Functions in programming📚
 ## Function Syntax in C++
 - **Definition:** return_type name(parameters)
