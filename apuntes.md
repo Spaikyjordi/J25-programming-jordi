@@ -19,7 +19,7 @@
   
 ![SoExcited~GIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/49f8ded1-6d98-429a-a0f6-a0549ea6f2e3)
 
-## 🤖🧙‍♂️Programming Languages 🧙‍♂️🤖
+## 🤖🧙‍♂️Programming Languages 🧙‍♂️🤖 (with QuimMontaner until combo burguer)
 - **Brackets []**
 - **Parenthesis ()**
 - **Curly Braces {}**
