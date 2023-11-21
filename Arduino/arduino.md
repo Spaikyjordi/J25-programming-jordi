@@ -200,7 +200,7 @@ So this time instead of using a "while" we usea a "for.
 
 # Problem solver variation 1
 ---
-This code sets up serial communication and then uses two for loops in the setup function to first solve drawing problems for odd numbers from 1 to 30.
+This code sets up serial communication and then uses two for loops in the setup function to first solve drawing problems for numbers from 1 to 30.
 
 
 Then solve them in reverse order (from 30 to 1). The loop function is empty and doesn't contain any code.
@@ -210,14 +210,14 @@ Then solve them in reverse order (from 30 to 1). The loop function is empty and 
 
 # Problem solver variation 2
 ---
-This code sets up serial communication and then uses for loops in the setup function to first solve drawing problems for odd numbers from 1 to 30 but 17 is skipped.
+This code sets up serial communication and then uses for loops in the setup function to first solve drawing problems for numbers from 1 to 30 but 17 is skipped.
 
 
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/ProblemSolverVariation2/ProblemSolverVariation2.ino)
 
 # Problem solver variation 3
 ---
-This code sets up serial communication and then uses for loops in the setup function to first solve drawing problems for odd numbers from 1 to 30 but 17 and 23 are skipped.
+This code sets up serial communication and then uses for loops in the setup function to first solve drawing problems for numbers from 1 to 30 but 17 and 23 are skipped.
 
 
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/ProblemSolverVariation3/ProblemSolverVariation3.ino)
