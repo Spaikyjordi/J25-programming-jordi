@@ -177,3 +177,54 @@ The "show" option in the input is added to display the current quantities of all
 
 
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/cooking_system_4/cooking_system_4.ino)
+
+# Problem Solver 1
+---
+This Arduino code sets up serial communication, initializes a variable to keep track of problem numbers. 
+
+
+Then enters a loop that iterates through solving drawing problems from 1 to 30 by calling the resolverProblemaDibujo function. 
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/ProblemSolver1/ProblemSolver1.ino)
+
+# Problem Solver 2
+---
+This code sets up serial communication, and then, in the setup function, it uses a for loop to iterate from 1 to 30, calling the resolverProblemaDibujo function for each iteration. 
+
+
+So this time instead of using a "while" we usea a "for.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/ProblemSolver2/ProblemSolver2.ino)
+
+# Problem solver variation 1
+---
+This code sets up serial communication and then uses two for loops in the setup function to first solve drawing problems for odd numbers from 1 to 30.
+
+
+Then solve them in reverse order (from 30 to 1). The loop function is empty and doesn't contain any code.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/ProblemSolverVariation1/ProblemSolverVariation1.ino)
+
+# Problem solver variation 2
+---
+This code sets up serial communication and then uses for loops in the setup function to first solve drawing problems for odd numbers from 1 to 30 but 17 is skipped.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/ProblemSolverVariation2/ProblemSolverVariation2.ino)
+
+# Problem solver variation 3
+---
+This code sets up serial communication and then uses for loops in the setup function to first solve drawing problems for odd numbers from 1 to 30 but 17 and 23 are skipped.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/ProblemSolverVariation3/ProblemSolverVariation3.ino)
+
+# Problem solver variation 4
+---
+This code sets up serial communication and then uses for loops in the setup function to first solve drawing problems for odd numbers that are multiples of 3 from 1 to 30.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/ProblemSolverVariation4/ProblemSolverVariation4.ino)
