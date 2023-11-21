@@ -228,3 +228,16 @@ This code sets up serial communication and then uses for loops in the setup func
 
 
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/ProblemSolverVariation4/ProblemSolverVariation4.ino)
+
+# Problem solver variation 5 homework
+---
+This code sets up serial communication and then uses for loops in the setup function to first solve drawing problems for odd numbers that are multiplers of 7 (7, 14, 21, etc).
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/ProblemSolverVariation5Homework/ProblemSolverVariation5Homework.ino)
+# Problem solver variation 6 homework
+---
+This code sets up serial communication and then uses for loops in the setup function to first solve drawing problems for odd numbers that end with 6 or 3 (3, 6, 13, 16, etc).
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/ProblemSolverVariation6Homework/ProblemSolverVariation6Homework.ino)
