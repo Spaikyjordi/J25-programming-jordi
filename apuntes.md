@@ -281,19 +281,52 @@ std::transform(message.begin(), message.end(), message.begin(), ::toupper);
 ## 🥸☝️Vocabulary☝️🥸
 - **Pseudocode**: Is a description of the steps in an algorithm using a mix of conventions of programming languages with informal, usually self-explanatory, notation of actions and conditions.
 - **Parameter**: Is a special kind of variable used in a function to refer to one of the pieces of data provided as input to the function.
+- **Array**:  Is a collection of items, or data, stored in contiguous memory locations, also known as database systems 
 ## ♾️Loops and Iterations♾️
 A **loop** or a **iteration** is a control structure that allows a set of instructions to be **repeated multiple times**. It enables you to execute a block of code repeatedly until a certain condition is met.
 
 Loops are essential for automating repetitive tasks and making code more efficient.
 **Example**
 
-  
-![Captura de pantalla 2023-11-16 083247](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/c9154c3d-b2f5-4f36-a08d-bcdb249e7a03)
+```C++
+do while (eggs > 0){    //condition
+  takeEgg();
+  breakEgg();
+  throwGarbage();
+}
+```
 
 
 **Example of an infinite loop**
 
 
-![Captura de pantalla 2023-11-16 083933](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/8340d576-757d-4250-9631-e52606ea42a3)
+```C++
+do while (true) {
+  climbMountainWithBoulder();
+  seeHowTheBoulderFalls();    //infinite loop
+  goBackToTheBottomOfTheMountain();
+}
+```
+
+**Loop "for"**
 
 
+```C++
+For(“definition of variables”;”condition of iteration”;”step”){code}
+```
+
+## 🫠C++ Syntax😣
+**Call a Function**: 
+
+
+```C++
+nameOfFunction (values of parameters if necessary,___);
+```
+
+
+**Return Type Function**:
+
+
+```C++
+nameOfFunction ( [type] parameter if necessary, __){ code…}
+```
