@@ -345,7 +345,7 @@ If we are using **integers**:
 7%3=1 modulus operator 
 
 
-Ex. 
+**Ex.**
 
 
 6/3=2       6%3=0 
