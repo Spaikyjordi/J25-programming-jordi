@@ -316,17 +316,13 @@ For(“definition of variables”;”condition of iteration”;”step”){code}
 ```
 
 ## 🫠C++ Syntax😣
-**Call a Function**: 
-
-
+## Call a Function
 ```C++
 nameOfFunction (values of parameters if necessary,___);
 ```
 
 
-**Return Type Function**:
-
-
+## Return Type Function
 ```C++
 nameOfFunction ( [type] parameter if necessary, __){ code…}
 ```
