@@ -282,7 +282,7 @@ std::transform(message.begin(), message.end(), message.begin(), ::toupper);
 - **Pseudocode**: Is a description of the steps in an algorithm using a mix of conventions of programming languages with informal, usually self-explanatory, notation of actions and conditions.
 - **Parameter**: Is a special kind of variable used in a function to refer to one of the pieces of data provided as input to the function.
 - **Array**:  Is a collection of items, or data, stored in contiguous memory locations, also known as database systems 
-## ♾️Loops and Iterations♾️
+# ♾️Loops and Iterations♾️
 A **loop** or a **iteration** is a control structure that allows a set of instructions to be **repeated multiple times**. It enables you to execute a block of code repeatedly until a certain condition is met.
 
 Loops are essential for automating repetitive tasks and making code more efficient.
@@ -308,15 +308,15 @@ do while (true) {
 }
 ```
 
-**Loop "for"**
+## Loop "for"
 
 
 ```C++
 For(“definition of variables”;”condition of iteration”;”step”){code}
 ```
 
-## 🫠C++ Syntax😣
-## Call a Function
+# 🫠C++ Syntax😣
+## 📞Call a Function📞
 ```C++
 nameOfFunction (values of parameters if necessary,___);
 ```
@@ -326,3 +326,23 @@ nameOfFunction (values of parameters if necessary,___);
 ```C++
 nameOfFunction ( [type] parameter if necessary, __){ code…}
 ```
+## Modulus (reminder)
+7/3=2,333333… 
+
+
+7à2 integer quotient//1 reminder (division) 
+
+
+In **programming**:
+7/3=2  
+
+If we are using integers 
+
+
+7%3=1 modulus operator 
+
+
+Ex. 
+
+
+6/3=2       6%3=0 
