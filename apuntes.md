@@ -277,3 +277,23 @@ std::transform(message.begin(), message.end(), message.begin(), ::toupper);
 
 ![ezgif com-video-to-gif-7](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/784dbaf1-5571-4a10-92ed-9e4cbcf59df3)
 
+# 💻Second term Programming💻
+## 🥸☝️Vocabulary☝️🥸
+- **Pseudocode**: Is a description of the steps in an algorithm using a mix of conventions of programming languages with informal, usually self-explanatory, notation of actions and conditions.
+- **Parameter**: Is a special kind of variable used in a function to refer to one of the pieces of data provided as input to the function.
+## ♾️Loops and Iterations♾️
+A **loop** or a **iteration** is a control structure that allows a set of instructions to be **repeated multiple times**. It enables you to execute a block of code repeatedly until a certain condition is met.
+
+Loops are essential for automating repetitive tasks and making code more efficient.
+**Example**
+
+  
+![Captura de pantalla 2023-11-16 083247](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/c9154c3d-b2f5-4f36-a08d-bcdb249e7a03)
+
+
+**Example of an infinite loop**
+
+
+![Captura de pantalla 2023-11-16 083933](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/8340d576-757d-4250-9631-e52606ea42a3)
+
+
