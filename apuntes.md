@@ -339,7 +339,10 @@ In **programming**:
 7/3=2  
 
 
-If we are using integers:  7%3=1 modulus operator 
+If we are using **integers**: 
+
+
+7%3=1 modulus operator 
 
 
 Ex. 
