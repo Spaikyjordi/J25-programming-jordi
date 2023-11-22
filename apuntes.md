@@ -330,16 +330,16 @@ nameOfFunction ( [type] parameter if necessary, __){ code…}
 7/3=2,333333… 
 
 
-7à2 integer quotient//1 reminder (division) 
+7 ➡️ 2 integer quotient//1 reminder (division) 
 
 
 In **programming**:
+
+
 7/3=2  
 
-If we are using integers 
 
-
-7%3=1 modulus operator 
+If we are using integers:  7%3=1 modulus operator 
 
 
 Ex. 
