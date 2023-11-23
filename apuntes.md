@@ -283,6 +283,7 @@ std::transform(message.begin(), message.end(), message.begin(), ::toupper);
 - **Parameter**: Is a special kind of variable used in a function to refer to one of the pieces of data provided as input to the function.
 - **Array**:  Is a collection of items, or data, stored in contiguous memory locations, also known as database systems
 - **Implementation**: is a realization of a technical specification or algorithm as a program, software component, or other computer system through computer programming and deployment.
+- **Extract a method**: Its extracting from a place code that is to complex and we transform it into a separate function in order to make it less complex.
 # ♾️Loops and Iterations♾️
 A **loop** or a **iteration** is a control structure that allows a set of instructions to be **repeated multiple times**. It enables you to execute a block of code repeatedly until a certain condition is met.
 
