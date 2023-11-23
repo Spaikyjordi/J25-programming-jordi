@@ -361,7 +361,7 @@ If we are using **integers**:
 Tricky:
 
 
-66/100= 0 cociente 66 resto 
+66/100= 0 quotient, 66 reminder 
 
 
 66%100=66 
