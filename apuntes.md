@@ -356,3 +356,12 @@ If we are using **integers**:
 
 
 6/3=2       6%3=0 
+
+
+Tricky:
+
+
+66/100= 0 cociente 66 resto 
+
+
+66%100=66 
