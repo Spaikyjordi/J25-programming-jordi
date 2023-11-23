@@ -315,6 +315,13 @@ do while (true) {
 For(“definition of variables”;”condition of iteration”;”step”){code}
 ```
 
+
+**Example of a loop "for"**
+
+
+```C++
+ for (int numeroProblema = 1; numeroProblema <= 100; numeroProblema++)
+```
 # 🫠C++ Syntax😣
 ## 📞Call a Function📞
 ```C++
