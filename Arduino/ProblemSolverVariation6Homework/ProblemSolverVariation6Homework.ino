@@ -16,6 +16,6 @@ void resolverProblemaDibujo(int n) {
 }
 
 bool endsWithSixOrThree(int num) {
-  int lastDigit = num % 10;
-  return lastDigit == 6 || lastDigit == 3;
+  int lastNumber = num % 10;
+  return lastNumber == 6 || lastDigit == 3;
 }
