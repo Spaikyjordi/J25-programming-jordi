@@ -281,7 +281,8 @@ std::transform(message.begin(), message.end(), message.begin(), ::toupper);
 ## 🥸☝️Vocabulary☝️🥸
 - **Pseudocode**: Is a description of the steps in an algorithm using a mix of conventions of programming languages with informal, usually self-explanatory, notation of actions and conditions.
 - **Parameter**: Is a special kind of variable used in a function to refer to one of the pieces of data provided as input to the function.
-- **Array**:  Is a collection of items, or data, stored in contiguous memory locations, also known as database systems 
+- **Array**:  Is a collection of items, or data, stored in contiguous memory locations, also known as database systems
+- **Implementation**: is a realization of a technical specification or algorithm as a program, software component, or other computer system through computer programming and deployment.
 # ♾️Loops and Iterations♾️
 A **loop** or a **iteration** is a control structure that allows a set of instructions to be **repeated multiple times**. It enables you to execute a block of code repeatedly until a certain condition is met.
 
