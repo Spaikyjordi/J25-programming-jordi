@@ -241,3 +241,27 @@ This code sets up serial communication and then uses for loops in the setup func
 
 
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/ProblemSolverVariation6Homework/ProblemSolverVariation6Homework.ino)
+# Problem solver variation 7 homework
+---
+This code will solve only the numbers that their digits if we add them together are even. So for example we will do 11 but not 12 or 21. 
+
+
+[coe](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/ProblemSolverVariation7Homework/ProblemSolverVariation7Homework.ino)
+# Problem solver variation 8 homework
+---
+This code will tell us all the numbers from 1 to 100 that have at least a 3 in their digits (for example 34 or 13).
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/ProblemSolverVariation8Homework/ProblemSolverVariation8Homework.ino)
+#  Problem solver variation 9 homework
+---
+This code will tell us all the numbers from 1 to 100 that has either odd or multiple of 6.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/ProblemSolverVariation9Homework/ProblemSolverVariation9Homework.ino)
+# Problem solver variation 10 homework
+---
+This code will tell us all the numbers from 1 to 100 that their digits sums either 10 or 5.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/ProblemSolverVariation10Homework/ProblemSolverVariation10Homework.ino)
