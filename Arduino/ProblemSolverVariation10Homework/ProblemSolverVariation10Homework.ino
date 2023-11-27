@@ -15,11 +15,11 @@ void resolverProblemaDibujo(int n) {
   Serial.println(n);
 }
 
-int sumaDigitos(int num) {
+int sumaDigitos(int n) {
   int suma = 0;
   while (num != 0) {
-    suma += num % 10;
-    num /= 10;
+    suma += n % 10;
+    n /= 10;
   }
   return suma;
 }
