@@ -17,7 +17,7 @@ void resolverProblemaDibujo(int n) {
 
 int sumaDigitos(int n) {
   int suma = 0;
-  while (num != 0) {
+  while (n != 0) {
     suma += n % 10;
     n /= 10;
   }
