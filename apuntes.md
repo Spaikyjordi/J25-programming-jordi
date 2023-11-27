@@ -324,6 +324,10 @@ For(“definition of variables”;”condition of iteration”;”step”){code}
 ```C++
  for (int numeroProblema = 1; numeroProblema <= 100; numeroProblema++)
 ```
+
+
+![LoopInfiniteGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/f5eaa42b-bc68-44bc-9d09-a4c460f08134)
+
 # 🫠C++ Syntax😣
 ## 📞Call a Function📞
 ```C++
