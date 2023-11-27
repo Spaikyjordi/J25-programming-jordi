@@ -367,3 +367,6 @@ Tricky:
 
 
 66%100=66 
+
+
+![MansNotHotQuickMathGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/24ba8997-f315-473f-822f-83e4a42d95e2)
