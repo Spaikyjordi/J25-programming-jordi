@@ -265,3 +265,10 @@ This code will tell us all the numbers from 1 to 100 that their digits sums eith
 
 
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/ProblemSolverVariation10Homework/ProblemSolverVariation10Homework.ino)
+# Arrays 1 homework
+---
+In this code we have a string "webi wabo" and we swap the first two letters and we also swap the "i" with "a". And finally we substituted the second "b" with a "v".
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/Arrays1/Arrays1.ino)
+
