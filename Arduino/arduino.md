@@ -272,3 +272,9 @@ In this code we have a string "webi wabo" and we swap the first two letters and 
 
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/Arrays1/Arrays1.ino)
 
+# Arrays 2 homework
+---
+In this code what we do is a program that tells us the lowest marck that we have on the array.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/Arrays2/Arrays2.ino)
