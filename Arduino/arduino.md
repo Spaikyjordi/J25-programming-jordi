@@ -278,3 +278,27 @@ In this code what we do is a program that tells us the lowest marck that we have
 
 
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/Arrays2/Arrays2.ino)
+# Sonar 1
+---
+In this code we find the number of times that the depth has increased.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/Sonar1/Sonar1.ino)
+# Sonar 2
+---
+In this code we make an output that tell us how many times the depth has increased, how many times it has decreased and how many times it has remained the same.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/Sonar2/Sonar2.ino)
+# Sonar 3
+---
+In this code we make an output that tell us how many times the depth has increased, how many times it has decreased and how many times it has remained the same. And also tells us the changes of speed that the submarine suffers vertically.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/Sonar3/Sonar3.ino)
+# Sonar 4
+---
+In this code we make an output that tell us how many times the depth has increased, how many times it has decreased and how many times it has remained the same. It also tells us the changes of speed that the submarine suffers vertically. And the maximimun value of speed and the lowest value of speed.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/Sonar4/Sonar4.ino)
