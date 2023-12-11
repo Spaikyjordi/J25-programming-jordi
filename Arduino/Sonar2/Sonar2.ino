@@ -21,5 +21,5 @@ void setup() {
 }
 
 void loop() {
-  // Tu código para el bucle principal va aquí
+
 }
