@@ -54,7 +54,7 @@ void setup() {
     sumSpeeds += speeds[i];
   }
 
-  int averageSpeed = sumSpeeds / 9;
+  int averageSpeed = sumSpeeds / 8;
 
   Serial.println("\nVelocidad mínima: " + String(minSpeed));
   Serial.println("Velocidad máxima: " + String(maxSpeed));
