@@ -397,5 +397,40 @@ std::transform(message.begin(), message.end(), message.begin(), ::toupper);
 
 # 🪬🪧Arrays🪧🪬
 ## Definition
-Variables that store several values in a specific order and don’t change un size, they also have very fast access, and the size of the array is relatively small. **Fun Fact**: A string is an array of characters 
+Variables that store several values in a specific order and don’t change un size, they also have very fast access, and the size of the array is relatively small.
 
+
+**Fun Fact**: A string is an array of characters 
+## ❗❗Important Concepts❗❗
+- **Collection of elements**: Arrays in C++ are collections of elements of the same data type stored in contiguous memory locations.
+- **Index and value**: An element of an array will always have an index between 0 and n-1 being n: the length of the array.
+- **Lenght**: Size of an array; number of elements.
+- **Fixed size**: Once declared, the size of an array cannot be changed during runtime.
+- **Indexing**: Elements in an array are accessed using an index, starting from 0 for the first element.
+- **Declaration**: Arrays are declared using square brackets [] after the data type, specifying the size of the array.
+- **Memory management**: Memory for arrays is allocated statically or dynamically depending on how they are declared.
+- **Iteration**: Loops are commonly used to iterate through array elements for processing or manipulation.
+
+## 😶‍🌫️😩Arrays Using Int😩😶‍🌫️
+```C++
+//Arrays with int slow form
+int[] grades=(5, 7, 9, 7, 6, 8}
+int sum = 0;
+sum = sum + grades [0];
+sum = sum + grades [1];
+sum = sum + grades [2];
+sum = sum + grades [3];
+sum = sum + grades [4];
+sum = sum + grades [5] ;
+int average = sum/6;
+Serial.println(average);
+
+//Arrays with int faster version using a loop
+int [] grades={5, 7, 9, 7, 6, 8}
+int sum = 0;
+  for (int n=0-;n<6;n++ ) {
+    sum = sum + grades [n];
+  }
+int average = sum/6;
+Serial.println(average);
+```
