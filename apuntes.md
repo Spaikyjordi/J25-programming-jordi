@@ -245,6 +245,9 @@ int main() {
 - **Array**:  Is a collection of items, or data, stored in contiguous memory locations, also known as database systems
 - **Implementation**: is a realization of a technical specification or algorithm as a program, software component, or other computer system through computer programming and deployment.
 - **Extract a method**: Its extracting from a place code that is to complex and we transform it into a separate function in order to make it less complex.
+- **Pseudorandom**: A pseudorandom number is a number generated in a process that appears to produce random numbers, but does not actually do so, they are generated sequentially with a deterministic algorithm
+- **Iteration**: repeat things, but always on different ways
+
 # ♾️Loops and Iterations♾️
 A **loop** or a **iteration** is a control structure that allows a set of instructions to be **repeated multiple times**. It enables you to execute a block of code repeatedly until a certain condition is met.
 
@@ -335,13 +338,7 @@ Tricky:
 
 
 ![MansNotHotQuickMathGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/24ba8997-f315-473f-822f-83e4a42d95e2)
-# 📕Second term Programming📕
-## 🥸☝Vocabulary 🥸☝
-- Pseudoaleatorio: Un número pseudoaleatorio es un número generado en un proceso que parece producir números al azar, pero no lo hace realmente, se generan de manera secuencial con un algoritmo determinístico
-- Iteration: repeat things, but always on different ways
-- Pseudocode: In computer science, pseudocode is a description of the steps in an algorithm using a mix of conventions of programming languages with informal, usually self-explanatory, notation of actions and conditions.
-- Implementation: Give it an answer
-- 
+
 # 🪢🕹️Strings🕹️🪢
 ## Introduction
 In programming, a string is a sequence of characters. It is a fundamental data type used to represent text. Strings are commonly manipulated for tasks such as input/output, text processing, and data storage.
