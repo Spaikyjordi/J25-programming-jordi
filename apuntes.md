@@ -411,7 +411,7 @@ Variables that store several values in a specific order and don’t change un si
 - **Memory management**: Memory for arrays is allocated statically or dynamically depending on how they are declared.
 - **Iteration**: Loops are commonly used to iterate through array elements for processing or manipulation.
 
-## 😶‍🌫️😩Arrays Using Int😩😶‍🌫️
+## 😶‍🌫️😩Arrays using Int😩😶‍🌫️
 ### Arrays with int slow form
 ```C++
 int[] grades=(5, 7, 9, 7, 6, 8}
@@ -436,3 +436,35 @@ int average = sum/6;
 Serial.println(average);
 ```
 ![TheFlashTheFlashDcGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/0756011f-238f-44cb-8085-2390a9154965)
+
+## Arrays using Int for real life examples
+### Best grade💯💯
+```C++
+void setup(){
+Serial.begin(9600); 
+int[]grades=(5, 7, 9, 7, 6, 8)
+int max = grades [0];
+   for (int i=1; i<6;i++) {
+      if (grades [i]>max) {
+      max = grades [i];
+      }
+  }
+Serial.println(max);
+}
+
+```
+### Worst grade🅾️🅾️
+```C++
+void setup(){ 
+Serial.begin(9600); 
+int grades [] = {9,5,8,3,2,9,3,1,7}; 
+int min = grades[0]; 
+   for (int i = 1; i < 9; i++) { 
+      if (grades[i] < min) { 
+      min = grades[i]; 
+      } 
+  } 
+Serial.println(min); 
+} 
+```
+ 
