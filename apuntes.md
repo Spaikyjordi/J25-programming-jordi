@@ -435,3 +435,4 @@ int sum = 0;
 int average = sum/6;
 Serial.println(average);
 ```
+![TheFlashTheFlashDcGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/0756011f-238f-44cb-8085-2390a9154965)
