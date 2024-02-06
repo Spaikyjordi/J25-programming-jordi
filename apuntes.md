@@ -412,8 +412,8 @@ Variables that store several values in a specific order and don’t change un si
 - **Iteration**: Loops are commonly used to iterate through array elements for processing or manipulation.
 
 ## 😶‍🌫️😩Arrays Using Int😩😶‍🌫️
+### Arrays with int slow form
 ```C++
-//Arrays with int slow form
 int[] grades=(5, 7, 9, 7, 6, 8}
 int sum = 0;
 sum = sum + grades [0];
@@ -424,8 +424,9 @@ sum = sum + grades [4];
 sum = sum + grades [5] ;
 int average = sum/6;
 Serial.println(average);
-
-//Arrays with int faster version using a loop
+```
+### Arrays with int faster version using a loop
+```C++
 int [] grades={5, 7, 9, 7, 6, 8}
 int sum = 0;
   for (int n=0-;n<6;n++ ) {
