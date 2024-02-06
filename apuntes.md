@@ -335,7 +335,13 @@ Tricky:
 
 
 ![MansNotHotQuickMathGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/24ba8997-f315-473f-822f-83e4a42d95e2)
-
+# 📕Second term Programming📕
+## 🥸☝Vocabulary 🥸☝
+- Pseudoaleatorio: Un número pseudoaleatorio es un número generado en un proceso que parece producir números al azar, pero no lo hace realmente, se generan de manera secuencial con un algoritmo determinístico
+- Iteration: repeat things, but always on different ways
+- Pseudocode: In computer science, pseudocode is a description of the steps in an algorithm using a mix of conventions of programming languages with informal, usually self-explanatory, notation of actions and conditions.
+- Implementation: Give it an answer
+- 
 # 🪢🕹️Strings🕹️🪢
 ## Introduction
 In programming, a string is a sequence of characters. It is a fundamental data type used to represent text. Strings are commonly manipulated for tasks such as input/output, text processing, and data storage.
@@ -392,5 +398,3 @@ std::transform(message.begin(), message.end(), message.begin(), ::toupper);
 
 ![RockAgreedRockSusGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/543adb3f-d115-4ed0-8ab4-8fa6be222749)
 
-# 📕Second term Programming📕
-## 🥸☝Vocabulary 🥸☝
