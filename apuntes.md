@@ -395,3 +395,7 @@ std::transform(message.begin(), message.end(), message.begin(), ::toupper);
 
 ![RockAgreedRockSusGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/543adb3f-d115-4ed0-8ab4-8fa6be222749)
 
+# 🪬🪧Arrays🪧🪬
+## Definition
+Variables that store several values in a specific order and don’t change un size, they also have very fast access, and the size of the array is relatively small. **Fun Fact**: A string is an array of characters 
+
