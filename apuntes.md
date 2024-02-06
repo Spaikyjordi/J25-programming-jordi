@@ -392,4 +392,5 @@ std::transform(message.begin(), message.end(), message.begin(), ::toupper);
 
 ![RockAgreedRockSusGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/543adb3f-d115-4ed0-8ab4-8fa6be222749)
 
-
+# 📕Second term Programming📕
+## 🥸☝Vocabulary 🥸☝
