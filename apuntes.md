@@ -410,7 +410,7 @@ Variables that store several values in a specific order and don’t change un si
 - **Declaration**: Arrays are declared using square brackets [] after the data type, specifying the size of the array.
 - **Memory management**: Memory for arrays is allocated statically or dynamically depending on how they are declared.
 - **Iteration**: Loops are commonly used to iterate through array elements for processing or manipulation.
-# Parallel Arrays
+## Parallel Arrays
 notes_tones {LA, SI, DO, D, MI,... } the value above is “joined” with the value below
 
 
