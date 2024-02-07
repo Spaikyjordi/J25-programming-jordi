@@ -302,3 +302,33 @@ In this code we make an output that tell us how many times the depth has increas
 
 
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/Sonar4/Sonar4.ino)
+
+# Homework about Functions
+---
+In this arduino file you will find the implementation of some functions that where for homework.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/HomwerokFunctions/HomwerokFunctions.ino)
+
+
+# Star Wars song
+---
+This is a Star Wars song that I found online to see how the tone worked and get inspiration on how to code a song using C++.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/StarWarsMusic/StarWarsMusic.ino)
+
+
+# Silent Night 1
+--- 
+This is a very primitive version of the code that was just defining the notes and calling them one by one.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/SilentNight/SilentNight.ino)
+
+# Silent Night 2
+---
+This is a modified version of the fisrt version but using a loop "for" instead of calling each note one by one.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/SilentNight2/SilentNight2.ino)
