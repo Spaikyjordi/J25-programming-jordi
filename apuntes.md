@@ -415,6 +415,8 @@ notes_tones {LA, SI, DO, D, MI,... } the value above is “joined” with the va
 
 
 Notes_durations { White, quarter note, quarter note,...}
+
+
 ## 😶‍🌫️😩Arrays using Int😩😶‍🌫️
 ### Arrays with int slow form
 ```C++
@@ -497,3 +499,4 @@ noTone(pinNumber);
 ```
 ### Tips for making the song
 "Int" is a vaariable that ocupies space in the memory, so when we have to define a lot of variables like in the songs, we use something that is called "#define". This "define" is not a variable it's an instuction for the compilator so it doesn't occupy any space in the memory.
+![bdafb11b872de994351142547d07246a_w200](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/a28730df-e4bb-4110-96ba-08c149fceeee)
