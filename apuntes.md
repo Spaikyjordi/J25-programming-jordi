@@ -416,7 +416,7 @@ notes_tones {LA, SI, DO, D, MI,... } the value above is “joined” with the va
 
 Notes_durations { White, quarter note, quarter note,...}
 
-![](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/5c9bf76c-98b9-4411-85db-5b89a18ddf80)
+
 
 ## 😶‍🌫️😩Arrays using Int😩😶‍🌫️
 ### Arrays with int slow form
