@@ -467,4 +467,21 @@ int min = grades[0];
 Serial.println(min); 
 } 
 ```
+## 🎅🎄Advent of Code Activity🎄🎅
+We did the first day of the advent of code and the activity consisted of a sonar that had to tell us how manny times a submarine increased the depth.
+
+
+**Activity:**
+```C++
+void setup() {
+  Serial.begin(9600);
+  int depths[] = { 90, 85, 88, 83, 82, 91, 91, 100, 97 };
+  int increasedDepth = 0;
+  for (int i = 1; i <= 8; i++) {
+    if (depths[i] - depths[i - 1] > 0){
+      increasedDepth++;
+    }
+  }
+}
+```
  
