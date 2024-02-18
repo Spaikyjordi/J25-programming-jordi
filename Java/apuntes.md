@@ -65,7 +65,7 @@ String msg = "Hello"; // Declare a "String" variable, and assign an initial valu
 ## Combining Simple Conditions
 ![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/1dd8fb3d-2bb8-4705-94db-7a7ce88039b7)
 
-## Loop 
+## The Loop Stirckes Back
 Suppose that you want to add all the integers from 1 to 1000. You could use a so-called loop in your program to perform a repetitive task, that is what the computer is good at.
   
 ```C++
