@@ -11,6 +11,7 @@
 - **CLI**: Interfaz de la línea de comandos
 - **High-level and low level abstraction**: High level is a very general level of abstraction and low level is a very specific abstraction.
 - **Procedural programming**: La programación procedural se centra en la secuencia de instrucciones para resolver problemas, utilizando funciones y control de flujo. El control de flujo se refiere a la gestión de la ejecución de un programa, determinando el orden en que se ejecutan las instrucciones basadas en condiciones y bucles.
+![GojoSatoruGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/bf3369b3-0612-4187-be31-ed46fc50e3b8)
 
 ## Java Program Template
 ```C++
@@ -38,6 +39,8 @@ public class PrintTest {   // Save as "PrintTest.java"
    }
 }
 ```
+![ThisLessonIsForYouJamesGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/dba77db1-a32b-44bf-9037-52aad672e6a9)
+
 ## Variable declaration
 - Int: Numbers without decimals
 - Double: Numbers with decimals
@@ -51,6 +54,7 @@ int number1, number2; // Declare 2 "int" variables named "number1" and "number2"
 int height = 20;      // Declare an "int" variable, and assign an initial value.
 String msg = "Hello"; // Declare a "String" variable, and assign an initial value.
 ```
+![IDoDeclareMichaelScottGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/9542ad77-edfa-42e7-863b-df651e0f8af5)
 
 ## Basic Arithmetic Operations
 ![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/5bcc08c7-c1b4-4116-9a6a-611a52730264)
@@ -102,3 +106,4 @@ while (number <= UPPERBOUND) {
 }
 ```
 ![Construct_WhileLoop](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/4cce2b48-fda2-4659-9e90-ba401adbdc33)
+
