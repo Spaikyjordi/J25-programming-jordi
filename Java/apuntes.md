@@ -13,13 +13,13 @@
 - **Procedural programming**: La programación procedural se centra en la secuencia de instrucciones para resolver problemas, utilizando funciones y control de flujo. El control de flujo se refiere a la gestión de la ejecución de un programa, determinando el orden en que se ejecutan las instrucciones basadas en condiciones y bucles.
 
 ## Java Program Template
-
+```C++
   public class Classname {   // Choose a meaningful Classname. Save as "Classname.java"
    public static void main(String[] args) {  // Entry point of the program
       // Your programming statements here!!!
    }
 }
-
+```
 ## Output via System.out.println() and System.out.print()
 ```C++
 public class PrintTest {   // Save as "PrintTest.java"
