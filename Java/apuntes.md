@@ -88,7 +88,7 @@ public class RunningNumberSum {  // Save as "RunningNumberSum.java"
 }
 ```
 
-[OurGreatestEnemyComesBack](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/c7494db0-384b-4648-94c2-832e00c3845b)
+![OurGreatestEnemyComesBack](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/c7494db0-384b-4648-94c2-832e00c3845b)
 
 ### How it works?
 final int LOWERBOUND = 1;
