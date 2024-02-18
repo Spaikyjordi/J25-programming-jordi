@@ -7,3 +7,8 @@ The second part of the code also defines a class named Main, but this time it ca
 
 
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Java/Triangulo.java)
+
+## 5/12/2024 exercices
+---
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Java/5-12-2024.java)
