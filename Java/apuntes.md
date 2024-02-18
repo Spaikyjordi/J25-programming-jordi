@@ -11,6 +11,8 @@
 - **CLI**: Interfaz de la línea de comandos
 - **High-level and low level abstraction**: High level is a very general level of abstraction and low level is a very specific abstraction.
 - **Procedural programming**: La programación procedural se centra en la secuencia de instrucciones para resolver problemas, utilizando funciones y control de flujo. El control de flujo se refiere a la gestión de la ejecución de un programa, determinando el orden en que se ejecutan las instrucciones basadas en condiciones y bucles.
+
+  
 ![GojoSatoruGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/bf3369b3-0612-4187-be31-ed46fc50e3b8)
 
 ## Java Program Template
