@@ -90,7 +90,10 @@ final int UPPERBOUND = 1000;
 
 Declare two int constants to hold the upperbound and lowerbound, respectively.
 
-int sum = 0;  Declares an int variable to hold the sum. This variable will be used to accumulate over the steps in the repetitive loop, and thus initialized to 0.
+int sum = 0;
+
+
+Declares an int variable to hold the sum. This variable will be used to accumulate over the steps in the repetitive loop, and thus initialized to 0.
 ```C++
 int number = LOWERBOUND;
 while (number <= UPPERBOUND) {
@@ -98,3 +101,4 @@ while (number <= UPPERBOUND) {
    ++number;
 }
 ```
+![Construct_WhileLoop](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/4cce2b48-fda2-4659-9e90-ba401adbdc33)
