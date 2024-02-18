@@ -40,24 +40,3 @@ public class PrintTest {   // Save as "PrintTest.java"
 }
 ## Basic Arithmetic Operations
 ![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/5bcc08c7-c1b4-4116-9a6a-611a52730264)
-
-
-
-
-
-
-
-
-| Operator | Mode          | Usage     | Meaning             | Example    x=5; y=2|
-|----------|---------------|-----------|---------------------|--------------------|
-| +        | Binary        |           |                     |                    |
-|          | Unary         | x + y     | Addition            | x + y returns 7    |
-| -        | Binary        |           |                     |                    |
-|          | Unary         | x - y     | Subtraction         | x - y returns 3    |
-| *        | Binary        | x * y     | Multiplication      | x * y returns 10   |
-| /        | Binary        | x / y     | Division            | x / y returns 2     |
-| %        | Binary        | x % y     | Modulus (Remainder) | x % y returns 1     |
-| ++       | Unary Prefix  |           | Increment by 1      | ++x or x++ (x is 6) |
-|          | Unary Postfix |           |                     |                    |
-| --       | Unary Prefix  |           | Decrement by 1      | --y or y-- (y is 1) |
-|          | Unary Postfix |           |                     |                    |
