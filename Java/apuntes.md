@@ -43,4 +43,15 @@ public class PrintTest {   // Save as "PrintTest.java"
 ![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/73a12f54-d7a8-47a1-b90a-fc955dfa77cc)
 ## Combining Simple Conditions
 ![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/1dd8fb3d-2bb8-4705-94db-7a7ce88039b7)
-
+## Variable declaration
+- Int
+- Double
+- String
+  ```C++
+int sum;              // Declare a variable named "sum" of the type "int" for storing an integer.
+                      // Terminate the statement with a semi-colon.
+double average;       // Declare a variable named "average" of the type "double" for storing a real number.
+int number1, number2; // Declare 2 "int" variables named "number1" and "number2", separated by a comma.
+int height = 20;      // Declare an "int" variable, and assign an initial value.
+String msg = "Hello"; // Declare a "String" variable, and assign an initial value.
+```
