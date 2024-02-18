@@ -21,9 +21,7 @@
 }
 
 ## Output via System.out.println() and System.out.print()
-/*
- * Test System.out.println() (print-line) and System.out.print().
- */
+```C++
 public class PrintTest {   // Save as "PrintTest.java"
    public static void main(String[] args) {
       System.out.println("Hello world!");       // Advance the cursor to the beginning of next line after printing
@@ -38,5 +36,6 @@ public class PrintTest {   // Save as "PrintTest.java"
       System.out.println("Hello, world!");
    }
 }
+```
 ## Basic Arithmetic Operations
 ![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/5bcc08c7-c1b4-4116-9a6a-611a52730264)
