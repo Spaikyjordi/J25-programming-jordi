@@ -20,6 +20,7 @@
    }
 }
 ```
+
 ## Output via System.out.println() and System.out.print()
 ```C++
 public class PrintTest {   // Save as "PrintTest.java"
@@ -37,12 +38,6 @@ public class PrintTest {   // Save as "PrintTest.java"
    }
 }
 ```
-## Basic Arithmetic Operations
-![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/5bcc08c7-c1b4-4116-9a6a-611a52730264)
-## Comparison Operators
-![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/73a12f54-d7a8-47a1-b90a-fc955dfa77cc)
-## Combining Simple Conditions
-![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/1dd8fb3d-2bb8-4705-94db-7a7ce88039b7)
 ## Variable declaration
 - Int: Numbers without decimals
 - Double: Numbers with decimals
@@ -56,3 +51,10 @@ int number1, number2; // Declare 2 "int" variables named "number1" and "number2"
 int height = 20;      // Declare an "int" variable, and assign an initial value.
 String msg = "Hello"; // Declare a "String" variable, and assign an initial value.
 ```
+
+## Basic Arithmetic Operations
+![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/5bcc08c7-c1b4-4116-9a6a-611a52730264)
+## Comparison Operators
+![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/73a12f54-d7a8-47a1-b90a-fc955dfa77cc)
+## Combining Simple Conditions
+![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/1dd8fb3d-2bb8-4705-94db-7a7ce88039b7)
