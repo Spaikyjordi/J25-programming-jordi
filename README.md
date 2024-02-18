@@ -8,7 +8,7 @@ Repository for students of the course of programming  in 1st Bachillerato
 
 
 ## Explanations of exercices
-[Explanations](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/readme.md)
+[Explanations C++](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/readme.md)
 ## Notes from class
 [First Term C++](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/apuntes.md)
 
