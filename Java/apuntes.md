@@ -44,9 +44,9 @@ public class PrintTest {   // Save as "PrintTest.java"
 ## Combining Simple Conditions
 ![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/1dd8fb3d-2bb8-4705-94db-7a7ce88039b7)
 ## Variable declaration
-- Int
-- Double
-- String
+- Int: Numbers without decimals
+- Double: Numbers with decimals
+- String: Words or characters
   
 ```C++
 int sum;              // Declare a variable named "sum" of the type "int" for storing an integer.
