@@ -39,6 +39,15 @@ public class PrintTest {   // Save as "PrintTest.java"
    }
 }
 ## Basic Arithmetic Operations
+![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/5bcc08c7-c1b4-4116-9a6a-611a52730264)
+
+
+
+
+
+
+
+
 | Operator | Mode          | Usage     | Meaning             | Example    x=5; y=2|
 |----------|---------------|-----------|---------------------|--------------------|
 | +        | Binary        |           |                     |                    |
