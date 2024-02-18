@@ -58,3 +58,43 @@ String msg = "Hello"; // Declare a "String" variable, and assign an initial valu
 ![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/73a12f54-d7a8-47a1-b90a-fc955dfa77cc)
 ## Combining Simple Conditions
 ![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/1dd8fb3d-2bb8-4705-94db-7a7ce88039b7)
+
+## Loop
+Suppose that you want to add all the integers from 1 to 1000. You could use a so-called loop in your program to perform a repetitive task, that is what the computer is good at.
+  
+```C++
+public class RunningNumberSum {  // Save as "RunningNumberSum.java"
+   public static void main(String[] args) {
+      final int LOWERBOUND = 1;      // Store the lowerbound
+      final int UPPERBOUND = 1000;   // Store the upperbound
+      int sum = 0;   // Declare an int variable "sum" to accumulate the numbers
+                     // Set the initial sum to 0
+      // Use a while-loop to repeatedly sum from the lowerbound to the upperbound
+      int number = LOWERBOUND;
+      while (number <= UPPERBOUND) {
+            // number = LOWERBOUND, LOWERBOUND+1, LOWERBOUND+2, ..., UPPERBOUND for each iteration
+         sum = sum + number;  // Accumulate number into sum
+         ++number;            // increment number
+      }
+      // Print the result
+      System.out.println("The sum from " + LOWERBOUND + " to " + UPPERBOUND + " is " + sum);
+   }
+}
+```
+### How it works?
+final int LOWERBOUND = 1;
+
+
+final int UPPERBOUND = 1000;
+
+
+Declare two int constants to hold the upperbound and lowerbound, respectively.
+
+int sum = 0;  Declares an int variable to hold the sum. This variable will be used to accumulate over the steps in the repetitive loop, and thus initialized to 0.
+```C++
+int number = LOWERBOUND;
+while (number <= UPPERBOUND) {
+   sum = sum + number;
+   ++number;
+}
+```
