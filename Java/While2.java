@@ -27,7 +27,7 @@ public class Main {
  
       int number = limiteInferior;
       while (number <= limiteSuperior) {
-		if ( number % 4 == 0) 
+		if ( number % 4 == 0 && (number % 100 != 0 || number % 1000 == 0))
          {
          	counter++; 
 			System.out.println(number + "AD");
@@ -36,6 +36,6 @@ public class Main {
       } 
       // Print the result
       System.out.println("Total number of leap years " + counter);
-    
+ 
    }
 }
