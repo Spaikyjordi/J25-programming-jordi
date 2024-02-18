@@ -22,10 +22,10 @@ Repository for students of the course of programming  in 1st Bachillerato
 
 [Explanations Java](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Java/readme.md)
 ## Notes from class
-[First Term C++](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/apuntes.md)
+[First Term C++](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/apuntes.md)
 
 
-[Second Term C++](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/apuntes.md#second-term-programming)
+[Second Term C++](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/apuntes.md#second-term-programming)
 
 
 ## Final Arduino Project
