@@ -10,10 +10,10 @@ Repository for students of the course of programming  in 1st Bachillerato
 ## Explanations of exercices
 [Explanations](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/readme.md)
 ## Notes from class
-[First Term](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/apuntes.md)
+[First Term C++](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/apuntes.md)
 
 
-[Second Term](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/apuntes.md#second-term-programming)
+[Second Term C++](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/apuntes.md#second-term-programming)
 
 ## Tools for help
 [Markdown Cheat sheet](https://www.markdownguide.org/cheat-sheet)
