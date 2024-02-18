@@ -28,6 +28,8 @@ Repository for students of the course of programming  in 1st Bachillerato
 [Second Term C++](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/apuntes.md#second-term-programming)
 
 
+[Second Term Java](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Java/apuntes.md)
+
 ## Final Arduino Project
 [Project](https://github.com/Spaikyjordi/J25-programming-jordi/tree/main/Arduino/Project-programming)
 
