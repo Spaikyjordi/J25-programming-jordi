@@ -22,6 +22,7 @@ The thisrd exercise: Based on the above example, write a program called SumProdu
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Java/5-12-2024.java)
 
 ## While
+---
 First: Sum from 9 to 899
 
 
@@ -37,3 +38,13 @@ Fourth: Sum of the square of all numbers from 1 to 100
 Fifth: Product of all numbers from 1 to 10
 
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Java/While.java)
+
+## While 2
+---
+Write a program called ThreeFiveSevenSum to sum all the running integers from 1 and 1000, that are divisible by 3, 5 or 7, but NOT by 15, 21, 35 or 105.
+
+
+Write a program called PrintLeapYears to print all the leap years between AD999 and AD2010. Also print the total number of leap years.
+
+
+[code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Java/While2.java)
