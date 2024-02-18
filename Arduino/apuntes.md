@@ -1,4 +1,4 @@
-# 📕First term Programming📕
+# 📕First term Programming C++📕
 ## 🥸☝Vocabulary 🥸☝
 - **Algorithm**: An algorithm is a set of instructions that are followed to solve a problem. It's a computer's thought process.
 - **Arrays**: Arrays are containers that hold variables; they're used to group together similar variables. You can think of arrays like shelves at a pet store. The array would be the shelf, and the animals in cages are the variables inside.
@@ -238,7 +238,7 @@ int main() {
 ![6f0a16aa1b1310912e82f2d605d5601c](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/c8c07188-7063-439d-a1dd-eb85472d3603)
 
 
-# 💻Second term Programming💻
+# 💻Second term Programming C++💻
 ## 🥸☝️Vocabulary☝️🥸
 - **Pseudocode**: Is a description of the steps in an algorithm using a mix of conventions of programming languages with informal, usually self-explanatory, notation of actions and conditions.
 - **Parameter**: Is a special kind of variable used in a function to refer to one of the pieces of data provided as input to the function.
