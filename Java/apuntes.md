@@ -47,7 +47,8 @@ public class PrintTest {   // Save as "PrintTest.java"
 - Int
 - Double
 - String
-  ```C++
+  
+```C++
 int sum;              // Declare a variable named "sum" of the type "int" for storing an integer.
                       // Terminate the statement with a semi-colon.
 double average;       // Declare a variable named "average" of the type "double" for storing a real number.
