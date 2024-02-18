@@ -39,3 +39,8 @@ public class PrintTest {   // Save as "PrintTest.java"
 ```
 ## Basic Arithmetic Operations
 ![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/5bcc08c7-c1b4-4116-9a6a-611a52730264)
+## Comparison Operators
+![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/73a12f54-d7a8-47a1-b90a-fc955dfa77cc)
+## Combining Simple Conditions
+![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/1dd8fb3d-2bb8-4705-94db-7a7ce88039b7)
+
