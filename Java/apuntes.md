@@ -16,7 +16,7 @@
 ![GojoSatoruGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/bf3369b3-0612-4187-be31-ed46fc50e3b8)
 
 ## Java Program Template
-```java=
+```java
   public class Classname {   // Choose a meaningful Classname. Save as "Classname.java"
    public static void main(String[] args) {  // Entry point of the program
       // Your programming statements here!!!
