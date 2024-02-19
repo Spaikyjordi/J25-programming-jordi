@@ -25,7 +25,7 @@
 ```
 
 ## Output via System.out.println() and System.out.print()
-```C++
+```java
 public class PrintTest {   // Save as "PrintTest.java"
    public static void main(String[] args) {
       System.out.println("Hello world!");       // Advance the cursor to the beginning of next line after printing
@@ -48,7 +48,7 @@ public class PrintTest {   // Save as "PrintTest.java"
 - Double: Numbers with decimals
 - String: Words or characters
   
-```C++
+```java
 int sum;              // Declare a variable named "sum" of the type "int" for storing an integer.
                       // Terminate the statement with a semi-colon.
 double average;       // Declare a variable named "average" of the type "double" for storing a real number.
@@ -68,7 +68,7 @@ String msg = "Hello"; // Declare a "String" variable, and assign an initial valu
 ## The Loop Stirckes Back
 Suppose that you want to add all the integers from 1 to 1000. You could use a so-called loop in your program to perform a repetitive task, that is what the computer is good at.
   
-```C++
+```java
 public class RunningNumberSum {  // Save as "RunningNumberSum.java"
    public static void main(String[] args) {
       final int LOWERBOUND = 1;      // Store the lowerbound
@@ -103,7 +103,7 @@ int sum = 0;
 
 
 Declares an int variable to hold the sum. This variable will be used to accumulate over the steps in the repetitive loop, and thus initialized to 0.
-```C++
+```java
 int number = LOWERBOUND;
 while (number <= UPPERBOUND) {
    sum = sum + number;
