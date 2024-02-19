@@ -117,3 +117,5 @@ while (number <= UPPERBOUND) {
 - [Introduction](https://www3.ntu.edu.sg/home/ehchua/programming/java/J1a_Introduction.html)
 - [OOP Basics](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html)
 
+
+![FernandoAlonsoF1GIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/4f11d731-d97e-4d7a-b7e8-d57533edd35a)
