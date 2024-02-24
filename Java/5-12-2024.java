@@ -5,8 +5,8 @@
 // sum of two numbers 
       public class Main {  
    public static void main(String[] args) {
-      double number1 = 99;
-      double number2 = 4;
+      double number1 = 99; //choose the number that you want
+      double number2 = 4; //choose the number that you want
       double sum = 0;
       sum = (number1*31)+(number2*17);
       System.out.println(sum);
