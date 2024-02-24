@@ -11,9 +11,18 @@
 - **CLI**: Interfaz de la línea de comandos
 - **High-level and low level abstraction**: High level is a very general level of abstraction and low level is a very specific abstraction.
 - **Procedural programming**: La programación procedural se centra en la secuencia de instrucciones para resolver problemas, utilizando funciones y control de flujo. El control de flujo se refiere a la gestión de la ejecución de un programa, determinando el orden en que se ejecutan las instrucciones basadas en condiciones y bucles.
+- **Class**: Object in java
+- **Refactorize**: Cambiar las variables de un código, para que sea más fácil de leer. 
+- **OOP**: Object-oriented programming is about creating objects that contain both data and methods.
+- **Object**: Un trozo de código que incluye un nombre, una serie de datos y una serie de métodos o funciones o subprogramas a los que podemos llamar. Es una mini librería. 
+- **Pointers and nulls**: Java works with pointers. This means that the variables don’t hold “directly” the data that we are looking for. They have the address (the pointer) of where the data is. If there is no address to any part of the virtual memory the value is null. 
+- **Public**: Defines that we can access this variable outside of the class and the package. 
+- **Final**: means that this value shall not be changed during execution. 
+
 
   
-![GojoSatoruGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/bf3369b3-0612-4187-be31-ed46fc50e3b8)
+![LolFunnyGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/3772ce33-0ce3-48bc-a158-3bec616e08e1)
+
 
 ## Java Program Template
 ```java
@@ -111,6 +120,20 @@ while (number <= UPPERBOUND) {
 }
 ```
 ![Construct_WhileLoop](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/4cce2b48-fda2-4659-9e90-ba401adbdc33)
+## OOP
+### What is OOP?
+**Object orientated programming**: An object is a compound of functions/subprograms/methods and data/variables that can be contained. Object-oriented programming is about creating objects that contain both data and methods. 
+### Basic Terminology
+![Captura de pantalla 2024-02-19 094519](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/a6d6abb0-ba9d-49c9-9c5a-af5285e0cc93)
+### Example
+![Captura de pantalla 2024-02-19 090951](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/6205a55d-5231-4558-b557-273bda4e798c)
+
+
+The class student can have different instances, but what are instances? Instances are for example in the case of the class "student", a particular student (ex: Quim, Albert, Julia,...). Each of this instances have different atributtes.
+
+
+**Variables** are the characteristics of the object, and **methods** are the things that the object can do. 
+
 
 ## More Help?
 - [W3Schools](https://www.w3schools.com/java/default.asp)
