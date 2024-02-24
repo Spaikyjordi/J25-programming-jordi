@@ -137,6 +137,10 @@ The class student can have different instances, but what are instances? Instance
 
 ### Problems with OOP
 **Dependencies**, when an object calls another object, it depends on which one it is called. This can bring problems if you want to do things simultaniously or other things.
+
+
+![ishowspeed-ishowspeed-ballon-d'or](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/d026031e-369c-4cae-b59b-6f80b2543b55)
+
 ## More Help?
 - [W3Schools](https://www.w3schools.com/java/default.asp)
 - [Introduction](https://www3.ntu.edu.sg/home/ehchua/programming/java/J1a_Introduction.html)
