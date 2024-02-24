@@ -16,35 +16,36 @@ The first exercise: Combinee lines 18-31 into one single println() statement, us
 The second exercise: In Mathematics, we could omit the multiplication sign in an arithmetic expression, e.g., x = 5a + 4b. In programming, you need to explicitly provide all the operators, i.e., x = 5*a + 4*b. Try printing the sum of 31 times of number1 and 17 times of number2.
 
 
-The thisrd exercise: Based on the above example, write a program called SumProduct3Numbers, which introduces one more int variable called number3, and assign it an integer value of 77. Compute and print the sum and product of all the three numbers.
+The third exercise: Based on the above example, write a program called SumProduct3Numbers, which introduces one more int variable called number3, and assign it an integer value of 77. Compute and print the sum and product of all the three numbers.
 
 
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Java/5-12-2024.java)
 
 ## While
 ---
-First: Sum from 9 to 899
+First: Calculates the sum of all integers from 9 to 899 (inclusive) and prints the result.
 
 
-Second: Sum from 1 to 1000 but only odd numbers
+Second: This program calculates the sum of all odd integers from 1 to 1000 (inclusive) and prints the result.
 
 
-Third: Sum of all numbers divisible by 7 from 1 to 1000
+Third: This program calculates the sum of all numbers divisible by 7 from 1 to 1000 (inclusive) and prints the result.
 
 
-Fourth: Sum of the square of all numbers from 1 to 100
+Fourth: This program calculates the sum of the squares of all numbers from 1 to 100 (inclusive) and prints the result.
 
 
-Fifth: Product of all numbers from 1 to 10
+Fifth: This program calculates the product of all numbers from 1 to 10 (inclusive) and prints the result.
+
 
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Java/While.java)
 
 ## While 2
 ---
-Write a program called ThreeFiveSevenSum to sum all the running integers from 1 and 1000, that are divisible by 3, 5 or 7, but NOT by 15, 21, 35 or 105.
+The first program calculates the sum of all numbers from 1 to 1000 that are divisible by 3, 5, or 7, but not by 15, 21, 35, or 105, and prints the result.
 
 
-Write a program called PrintLeapYears to print all the leap years between AD999 and AD2010. Also print the total number of leap years.
+The second program counts the number of leap years between 999 and 2010 (inclusive) and prints each leap year with "AD" appended to it, then it prints the total number of leap years found.
 
 
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Java/While2.java)
