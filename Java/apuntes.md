@@ -135,6 +135,8 @@ The class student can have different instances, but what are instances? Instance
 **Variables** are the characteristics of the object, and **methods** are the things that the object can do. 
 
 
+### Problems with OOP
+**Dependencies**, when an object calls another object, it depends on which one it is called. This can bring problems if you want to do things simultaniously or other things.
 ## More Help?
 - [W3Schools](https://www.w3schools.com/java/default.asp)
 - [Introduction](https://www3.ntu.edu.sg/home/ehchua/programming/java/J1a_Introduction.html)
