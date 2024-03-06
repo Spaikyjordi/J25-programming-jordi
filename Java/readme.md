@@ -71,7 +71,7 @@ On the fifth one we have to create an instance of a circle with default radius b
 
 ## Create a Book class
 ---
-The Book class provides a blueprint for creating book objects. It encapsulates the data related to a book and provides methods to access and modify that data. The class uses data encapsulation by declaring instance variables as private and using public getters and setters to get or change the information of the book. It also includes constructors to generate the object either with default values or with especific atributes like the title, author...
+The **Book** class provides a blueprint for creating book objects. It encapsulates the data related to a book and provides methods to access and modify that data. The class uses data encapsulation by declaring instance variables as private and using public getters and setters to get or change the information of the book. It also includes constructors to generate the object either with default values or with especific atributes like the title, author...
 
 
 [code](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Java/Book-creation.java)
