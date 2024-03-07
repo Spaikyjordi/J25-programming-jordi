@@ -6,28 +6,28 @@ public class Book {
 	private boolean isInKorean;
 	
 	public Book () {
-	this.title = "noTitle";				//made by Jord
-	this.author = "anonimous author";
-	this.numPag = 0;
-	this.ISBN = "none";
-	this.isInKorean = false;
+		this.title = "noTitle";				//made by Jord
+		this.author = "anonimous author";
+		this.numPag = 0;
+		this.ISBN = "none";
+		this.isInKorean = false;
 	}
 	
 	public Book (String title, String author, int numPag, String ISBN, boolean isInKorean){
-	   this.title=title;
-       this.author=author;
-       this.numPag=numPag;
-       this.ISBN=ISBN;
-       this.isInKorean=isInKorean;
+	 this.title=title;
+       	 this.author=author;
+	 this.numPag=numPag;
+	 this.ISBN=ISBN;
+	 this.isInKorean=isInKorean;
 	}	
 	
 	//getters
 	public String getTitle() {
-    return this.title; 
+	    return this.title; 
 	}
 
 	public String getAuthor() {
-    return this.author; 
+  	   return this.author; 
 	}
 
 	public int getNumPag() {
