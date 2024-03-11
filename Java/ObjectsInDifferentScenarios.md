@@ -1,29 +1,21 @@
 ### Commercial Plane
-| Field             | Description          |
-|-------------------|----------------------|
-| numPassengers     | int                  |
-| airline           | String               |
-| model             | String               |
-| fuelType          | String               |
-| price             | double               |
-| numStewardess     | int                  |
-
+- Int: numPassengers
+- String: aeroline
+- String: model
+- String: fuel
+- Double: price
+- Int: numStewardess
 ### Toy Plane
-| Field             | Description          |
-|-------------------|----------------------|
-| material          | String               |
-| weight            | double               |
-| price             | double               |
-| remoteControlled  | boolean              |
-| brand             | String               |
-| model             | String               |
-
+- String: material
+- Double: weight
+- Double: price
+- Boolean: remoteControlled
+- String: brand
+- String: model
 ### Fighting Plane
-| Field             | Description          |
-|-------------------|----------------------|
-| model             | String               |
-| maxSpeed          | double               |
-| price             | double               |
-| numWeapons        | int                  |
-| stealthCapability| boolean              |
-| countryOfOrigin  | String               |
+- String: model
+- Double: maxSpeed
+- Double: price
+- Int: numWeapons
+- Boolean: stealthCapability
+- String: countryOfOrigin
