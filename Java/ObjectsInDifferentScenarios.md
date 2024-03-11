@@ -1,21 +1,32 @@
-### Commercial Plane
-- Int: numPassengers
-- String: aeroline
-- String: model
-- String: fuel
-- Double: price
-- Int: numStewardess
-### Toy Plane
-- String: material
-- Double: weight
-- Double: price
-- Boolean: remoteControlled
-- String: brand
-- String: model
-### Fighting Plane
-- String: model
-- Double: maxSpeed
-- Double: price
-- Int: numWeapons
-- Boolean: stealthCapability
-- String: countryOfOrigin
++---------------------------------+
+|           Plane                 | // Commercial
++---------------------------------+
+| - int: numPassengers            |
+| - String: airline               |
+| - String: model                 |
+| - String: fuelType              |
+| - double: price                 |
+| - int: numStewardess            |
++---------------------------------+
+
++---------------------------------+
+|           Plane                 | // Toy
++---------------------------------+
+| - String: material              |
+| - double: weight                |
+| - double: price                 |
+| - boolean: remoteControlled     |
+| - String: brand                 |
+| - String: model                 |
++---------------------------------+
+
++---------------------------------+
+|           Plane                 | // Fighting
++---------------------------------+
+| - String: model                 |
+| - double: maxSpeed              |
+| - double: price                 |
+| - int: numWeapons               |
+| - boolean: stealthCapability    |
+| - String: countryOfOrigin       |
++---------------------------------+
