@@ -17,6 +17,6 @@
 - String: model
 - Double: maxSpeed
 - Double: price
-- Int: numWeapons
+- Stirng[]: weapons
 - Boolean: stealthCapability
-- String: countryOfOrigin
+- String: location
