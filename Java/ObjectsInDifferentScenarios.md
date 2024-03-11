@@ -3,8 +3,9 @@
 - String: aeroline
 - String: model
 - String: fuelType
+- Double: fuelCapacity
 - Double: price
-- Int: numStewardess
+- Int: crew
 ### Toy Plane
 - String: material
 - Double: weight
