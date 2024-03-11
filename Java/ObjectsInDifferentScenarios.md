@@ -2,7 +2,7 @@
 - Int: numPassengers
 - String: aeroline
 - String: model
-- String: fuel
+- String: fuelType
 - Double: price
 - Int: numStewardess
 ### Toy Plane
