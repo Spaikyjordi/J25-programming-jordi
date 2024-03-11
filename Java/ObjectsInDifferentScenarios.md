@@ -1,32 +1,29 @@
-+---------------------------------+
-|           Plane                 | // Commercial
-+---------------------------------+
-| - int: numPassengers            |
-| - String: airline               |
-| - String: model                 |
-| - String: fuelType              |
-| - double: price                 |
-| - int: numStewardess            |
-+---------------------------------+
+### Commercial Plane
+| Field             | Description          |
+|-------------------|----------------------|
+| numPassengers     | int                  |
+| airline           | String               |
+| model             | String               |
+| fuelType          | String               |
+| price             | double               |
+| numStewardess     | int                  |
 
-+---------------------------------+
-|           Plane                 | // Toy
-+---------------------------------+
-| - String: material              |
-| - double: weight                |
-| - double: price                 |
-| - boolean: remoteControlled     |
-| - String: brand                 |
-| - String: model                 |
-+---------------------------------+
+### Toy Plane
+| Field             | Description          |
+|-------------------|----------------------|
+| material          | String               |
+| weight            | double               |
+| price             | double               |
+| remoteControlled  | boolean              |
+| brand             | String               |
+| model             | String               |
 
-+---------------------------------+
-|           Plane                 | // Fighting
-+---------------------------------+
-| - String: model                 |
-| - double: maxSpeed              |
-| - double: price                 |
-| - int: numWeapons               |
-| - boolean: stealthCapability    |
-| - String: countryOfOrigin       |
-+---------------------------------+
+### Fighting Plane
+| Field             | Description          |
+|-------------------|----------------------|
+| model             | String               |
+| maxSpeed          | double               |
+| price             | double               |
+| numWeapons        | int                  |
+| stealthCapability| boolean              |
+| countryOfOrigin  | String               |
