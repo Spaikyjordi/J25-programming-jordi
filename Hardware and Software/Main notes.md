@@ -62,6 +62,10 @@ A refrigerator is controlled by a microcontroller, which is a board or circuit w
 - Capacitive receiver
 - Gyroscope
 - Radiofrequency
+
+
+![Uploading ParadiseWillyrexMicGIF.gif…]()
+
 ### 🖥️Output (Salida)🖥️:
 - Screen
 - Audio (speaker)
@@ -70,6 +74,20 @@ A refrigerator is controlled by a microcontroller, which is a board or circuit w
    - Pump
    - Fan
    - Vibratior (phone vibrating)
+  
+
+![GoriditoSeAsustaYRompePantallaGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/fe5cf13c-e3fd-428d-8dd4-937ee9dc60d1)
+
+### Input and output:
+- Communication:
+   - WiFi (internet)
+   - Bluetooth
+   - Mobile data (2G, 3G, 4G, 5G)
+   - LAN (RJ45)
+   - Telephone / Fiber Optic
+
+
+![download](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/8fc424ea-1c93-439b-9e6a-a1c71fa0b04b)
 
 
 
