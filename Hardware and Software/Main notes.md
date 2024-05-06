@@ -27,6 +27,9 @@ A refrigerator is controlled by a microcontroller, which is a board or circuit w
 - Calculators
 
 
+![download](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/d3a0c3a4-1f2d-4a60-9ec3-992560434ef7)
+
+
 **More complex computers:**
 - Multi-layered hardware (Boards) -> Raspberry Pi (It's a simpler computer, can serve as a server)
 - Multiple layers of Software
@@ -42,7 +45,7 @@ A refrigerator is controlled by a microcontroller, which is a board or circuit w
 - CPU -> Central Processing Unit
 - GPU -> Graphic Processing Unit
 ## Inputs and Outputs in Computing
-### Input (Entrada):
+### 🖱️Input (Entrada)⌨️:
 - Potentiometer
 - Button
 - Keyboard
@@ -59,7 +62,14 @@ A refrigerator is controlled by a microcontroller, which is a board or circuit w
 - Capacitive receiver
 - Gyroscope
 - Radiofrequency
-
+### 🖥️Output (Salida)🖥️:
+- Screen
+- Audio (speaker)
+- LEDs
+- Motors:
+   - Pump
+   - Fan
+   - Vibratior (phone vibrating)
 
 
 
