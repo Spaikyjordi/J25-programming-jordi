@@ -44,7 +44,7 @@ A refrigerator is controlled by a microcontroller, which is a board or circuit w
 **Processing capability:**
 - CPU -> Central Processing Unit
 - GPU -> Graphic Processing Unit
-## Inputs and Outputs in Computing
+## 👈👉Inputs and Outputs in Computing👈👉
 ### 🖱️Input (Entrada)⌨️:
 - Potentiometer
 - Button
