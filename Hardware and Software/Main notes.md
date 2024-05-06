@@ -151,3 +151,17 @@ A refrigerator is controlled by a microcontroller, which is a board or circuit w
 
 
 ![EyesRollingInformationOverloadGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/06db82d4-f57a-4749-b4e3-12b2fca59781)
+
+## Memory Architectures:
+### 2 main architectures:
+The first one is Von Neumann: This architecture uses one type of memory for instructions and data. Most microprocessors of laptops use this kind of architecture.
+
+
+![download](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/1c0ae975-2f3e-4d10-9288-2f85659486d0)
+
+
+The second is Harvard:
+- It distinguishes between the memory for instructions and the memory for data.
+
+
+![download](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/73057d19-dce2-4509-856a-9b51ac3c45f2)
