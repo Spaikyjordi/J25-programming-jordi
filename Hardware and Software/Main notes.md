@@ -91,7 +91,7 @@ A refrigerator is controlled by a microcontroller, which is a board or circuit w
 ![download](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/8fc424ea-1c93-439b-9e6a-a1c71fa0b04b)
 
 
-## Notes on Tower:
+## Notes on Tower
 - **Power supply**
   - Max power 500
     - Coil
