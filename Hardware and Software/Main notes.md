@@ -21,9 +21,17 @@ Different types:
 
 
 A refrigerator is controlled by a microcontroller, which is a board or circuit with relatively low processing capacity. For example:
-
-
 - Arduino
 - Embedded within a thermostat
 - Washing machines
 - Calculators
+**More complex computers:**
+- Multi-layered hardware (Boards) -> Raspberry Pi (It's a simpler computer, can serve as a server)
+- Multiple layers of Software
+**Computer resources:**
+- Processing capabilities
+- Memory (Primary, Secondary)
+- Bandwidth - communication speed
+**Processing capability:**
+- CPU -> Central Processing Unit
+- GPU -> Graphic Processing Unit
