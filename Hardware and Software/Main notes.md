@@ -139,4 +139,12 @@ A refrigerator is controlled by a microcontroller, which is a board or circuit w
 - **CISC (Complex Instruction Set Computing)**:
   - This category exists as a non-established antonym of RISC, meaning "everything that is not RISC". But the main concept is that the CPU should have as many instructions as possible so you can use it directly.
 
+- **CACHE**:
+  - Hardware: elements that are between the CPU and RAM, to store the elements we use most frequently.
 
+- **The Control Unit (CU**:
+  - Responsible for managing the CPU.
+  - Controls the retrieval of instructions and data from primary memory to the CPU. What is going to be fed to the ALU (the beast).
+  - Contains several registers, which are small storage locations that can hold data, usually in multiples of 8 bits. Two of them are:
+    - MAR
+    - MDR
