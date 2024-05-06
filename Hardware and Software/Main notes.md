@@ -1,5 +1,5 @@
 # 💻💻Hardware and Software👨‍💻👨‍💻
-## First steps👣👣
+## 👣First steps👣
 ### Von Neumann Architecture:
 - Data Input → Processor → Output
    - Processor → Memory
