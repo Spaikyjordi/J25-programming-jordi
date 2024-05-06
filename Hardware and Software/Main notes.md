@@ -148,3 +148,6 @@ A refrigerator is controlled by a microcontroller, which is a board or circuit w
   - Contains several registers, which are small storage locations that can hold data, usually in multiples of 8 bits. Two of them are:
     - MAR
     - MDR
+
+
+![EyesRollingInformationOverloadGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/06db82d4-f57a-4749-b4e3-12b2fca59781)
