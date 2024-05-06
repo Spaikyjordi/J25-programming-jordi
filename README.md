@@ -31,15 +31,17 @@ Repository for students of the course of programming  in 1st Bachillerato
 [Second Term Java](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Java/apuntes.md)
 
 
-[Third term Hardware and Software notes](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Hardware%20and%20Software/Main%20notes)
+[Third term Hardware and Software notes](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Hardware%20and%20Software/Main%20notes.md)
 
 
-[Disassembling PC project](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Hardware%20and%20Software/Desmontando%20PC.pdf)
 
 ## Final Arduino Project
 [Project](https://github.com/Spaikyjordi/J25-programming-jordi/tree/main/Arduino/Project-programming)
 
 
 [Process](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Arduino/Project-programming/readme.md)
+
+## Disassembling PC project
+[Project](https://github.com/Spaikyjordi/J25-programming-jordi/blob/main/Hardware%20and%20Software/Desmontando%20PC.pdf)
 ## Tools for help
 [Markdown Cheat sheet](https://www.markdownguide.org/cheat-sheet)
