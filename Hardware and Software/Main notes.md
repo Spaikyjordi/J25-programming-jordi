@@ -64,7 +64,8 @@ A refrigerator is controlled by a microcontroller, which is a board or circuit w
 - Radiofrequency
 
 
-![Uploading ParadiseWillyrexMicGIF.gif…]()
+![ParadiseWillyrexMicGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/a1628bf2-95f6-4eee-89d5-ea6be3507437)
+
 
 ### 🖥️Output (Salida)🖥️:
 - Screen
