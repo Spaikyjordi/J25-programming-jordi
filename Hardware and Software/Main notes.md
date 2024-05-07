@@ -226,6 +226,9 @@ Since SSDs have no mechanical parts, they are less prone to failure due to shock
 
 SSDs are also much quieter than HDDs because they have no mechanical parts. Besides being quieter, they have much higher electrical efficiency than HDDs.
 
+
+![download](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/d526e005-2b39-4281-b929-33d592a37be5)
+
 ### Graphics Card (GPU)
 A graphics card, also known as a Graphics Processing Unit (GPU), is the component of the computer responsible for processing and rendering images, videos, and graphics on the screen. Basically, it calculates triangles very quickly.
 In comparison with the CPU, the GPU performs much simpler calculations, but much faster. That's why GPUs are used for cryptocurrency mining.
@@ -251,3 +254,6 @@ There are several types of network cards:
 **Types of Ports:**
 - An RJ45 port. It is the most popular standard and offers maximum stability to your connection.
 - BNC. It connects and disconnects easily. It is used for coaxial cable.
+
+
+![download](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/991db949-2ae1-4963-b05e-2f2bcd5e0454)
