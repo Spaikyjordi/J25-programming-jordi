@@ -23,3 +23,13 @@ So:
 - 1 **MByte** = 1 MB = 1024 kB = 2^10 kB = 2^20 B
 - 1 **GByte** = 1024 MB = 2^10 MB = 2^30 bytes = 2^33bits
 - 1 **TByte** = 1024 GB = 2^40B = 2^43 bits
+## Transformations
+### Binary to decmial
+To pass a binary number to decimal what we have to do is this:
+
+
+![Imagen de WhatsApp 2024-05-07 a las 19 05 51_cede1f55](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/34bb1b44-c383-4eff-9884-31e66aa93800)
+
+
+
+So each time there is a 1 you have to put the number that it is times how many steps you took minus one. So the third 1 in the photo is 2^3 because it's the fourth step minus one. And repeat this each time you sea a 1. And then when you finish the number, you have to add all of this nummbers. So in this case 2^7 + 2^6 + 2^3 + 2^1 + 2^0 = 203
