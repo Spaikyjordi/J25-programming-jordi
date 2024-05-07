@@ -33,3 +33,12 @@ To pass a binary number to decimal what we have to do is this:
 
 
 So each time there is a 1 you have to put the number that it is times how many steps you took minus one. So the third 1 in the photo is 2^3 because it's the fourth step minus one. And repeat this each time you sea a 1. And then when you finish the number, you have to add all of this nummbers. So in this case 2^7 + 2^6 + 2^3 + 2^1 + 2^0 = 203
+
+### Decimal to binary
+It is very easy, you just start dividing by two and then the reminder is going to be the binary number:
+
+
+![Imagen de WhatsApp 2024-05-07 a las 19 12 28_9aedbb07](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/6a62918d-bb6b-4d10-b290-071254d8ca79)
+
+
+So when you have all of the reminders, you put them in order from the bottom to the top and that's it.
