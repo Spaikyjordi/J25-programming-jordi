@@ -64,6 +64,9 @@ So when you have all of the reminders, you put them in order from the bottom to 
 ## Binary to hexadecimal
 So there are two ways of doing it but I am going to explain the one I use. If you have a binary number and you want to pass it to hexadecimal I just pass the binary to decimal and then from decimal to hexadecimal by dividing by 16 all the time just like we do when passing from decimal to binary:
 
+
+![Imagen de WhatsApp 2024-05-07 a las 19 12 28_6620da4a](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/d7fb9aa0-a1df-4d02-9f8e-3bac035ea6de)
+
 ## Hexadecimal to decimal
 As we did when passing from binary to decmial, we do the same thing but instead of a base 2 we use a base 16:
 
@@ -72,3 +75,6 @@ As we did when passing from binary to decmial, we do the same thing but instead 
 
 ## Decimal to hexadecimal
 Same as in binary but dividing by 16:
+
+
+![Imagen de WhatsApp 2024-05-07 a las 19 12 28_6620da4a](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/d7fb9aa0-a1df-4d02-9f8e-3bac035ea6de)
