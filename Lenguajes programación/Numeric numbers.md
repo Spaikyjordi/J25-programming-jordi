@@ -40,6 +40,8 @@ To specify the type of number we have to put "HEX", "DEC" or "OCT" in the bottom
 
 # Hexadecimal
 Hexadecimal goes from 0-9 and A-F. 
+
+
 ![1552a7a7b6a3bf5f1adb1dde5295b6e6](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/92dd8a73-975b-4ae2-ba6f-7cade85762e4)
 
 # Transformations
