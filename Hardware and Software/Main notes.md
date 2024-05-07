@@ -206,6 +206,8 @@ When you turn off the computer, the data stored in the RAM is erased, unlike har
 
 ![download](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/e0052fb7-c6c7-48a3-9646-20ab5dd2b9f0)
 ### HDD and SSD
+**HDD**
+
 
 In a computer's hard disk drive (HDD), the data of the computer is stored. In this last decade, solid-state drives (SSD) have appeared. HDDs compared to SSDs are slower, but some people prefer HDDs because they seem to be more secure.
 
@@ -223,3 +225,15 @@ Since SSDs have no mechanical parts, they are less prone to failure due to shock
 
 
 SSDs are also much quieter than HDDs because they have no mechanical parts. Besides being quieter, they have much higher electrical efficiency than HDDs.
+
+### Graphics Card (GPU)
+A graphics card, also known as a Graphics Processing Unit (GPU), is the component of the computer responsible for processing and rendering images, videos, and graphics on the screen. Basically, it calculates triangles very quickly.
+In comparison with the CPU, the GPU performs much simpler calculations, but much faster. That's why GPUs are used for cryptocurrency mining.
+
+
+There are two types of GPUs. The first type is integrated directly into the processor, while the second is independent:
+- Dedicated: These GPUs share resources with the CPU and system memory, meaning they use the same RAM as the processor and other system components. Therefore, they will be slower. They are more common in laptops and mobile devices.
+- Integrated: They have their own dedicated VRAM memory and specialized graphics processors. They are designed to provide superior graphics performance compared to integrated GPUs.
+
+
+![download](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/f09e28fd-f9ed-4a0c-ba45-f78d37c9a98e)
