@@ -165,3 +165,43 @@ The second is **Harvard**:
 
 
 ![download](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/73057d19-dce2-4509-856a-9b51ac3c45f2)
+
+## Components
+### Power Supply
+A power supply works by converting the power from a wall outlet and channeling it to each individual component in the system through various cables.
+
+
+There are different types of power supplies for PCs, classified by their size or form factor, such as:
+- **ATX (Advanced Technology eXtended)**
+- **SFX (Small Form Factor)**
+- **SFX-L (SFX Large)**
+- **TFX (Thin Form Factor)**
+- **Flex ATX**
+
+
+In my case, I use an ATX power supply, which is characterized by being the most common format among power supplies. It has dimensions of approximately 150 mm wide, 86 mm high, and 140 mm deep. It offers many power and connector options, which are suitable for most standard-sized PC configurations.
+
+
+![download](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/c6f97abf-c893-46b1-a695-c50577db60f9)
+
+### Motherboard
+The motherboard is one of the most important components when assembling a computer. The RAM, CPU, hard drives, and power supply, essential elements for a computer to function at full capacity, are connected to this piece. Inside the motherboard, there are several microprocessors that perform different functions, such as audio processing, and USB input ports...
+
+
+![download](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/bff57c3d-311c-4fc2-9e28-0688c22077b8)
+### Processor (CPU)
+The CPU, or central processing unit, is the main component that processes information. It acts as the computer's brain, transmitting information to all other components of the system. The CPU is the hardware part responsible for interacting with the software (there are more, but it is the main one).
+
+
+![download](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/6ec66458-d986-489a-9fa2-396e8a81f92a)
+### RAM
+Random Access Memory (RAM) is short-term storage memory. The operating system of computers or other devices uses RAM to temporarily store all programs and their execution processes.
+
+
+That is, when you load a game, all the information of that game goes to the RAM because it is much faster than accessing the SSD memory. The more RAM you have, the higher fps (frames per second) games will have.
+
+
+When you turn off the computer, the data stored in the RAM is erased, unlike hard drives which continue to store information after power loss.
+
+
+![download](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/e0052fb7-c6c7-48a3-9646-20ab5dd2b9f0)
