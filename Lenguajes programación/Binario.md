@@ -6,6 +6,8 @@ Binary code is a system of representing text, computer processor instructions, o
 In binary code, each digit is referred to as a bit and a sequence of eight bits is called a byte. Each bit in a binary number can have 2 posible values of information. 
 - 1 bit = b
 - 8 bits = 1 byte = B (2^8 posibles valores)
+
+
 So:
 - 1 bit = 2 valores posibles
 - 2 bits = 4 valores posibles
