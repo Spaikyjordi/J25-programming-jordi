@@ -237,3 +237,17 @@ There are two types of GPUs. The first type is integrated directly into the proc
 
 
 ![download](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/f09e28fd-f9ed-4a0c-ba45-f78d37c9a98e)
+### PCI Card
+A network card is a device installed inside a computer to enable it to connect to the Internet. Depending on the type of card, it may include a port on its back for connecting an Ethernet cable or for wireless connection.
+
+
+There are several types of network cards:
+- **Ethernet:** These cards include a port with the 8P8C standard and the RJ45 connector.
+- **Token Ring:** These fell out of use as they were considerably more expensive than others.
+- **Arcnet:** Its acronym stands for "attached resource computer network." They were created in the 1980s but fell out of use because they had a much lower connection speed than Ethernet.
+- **PCMIA:** Installed on the motherboard of laptops. It does not include an antenna.
+
+
+**Types of Ports:**
+- An RJ45 port. It is the most popular standard and offers maximum stability to your connection.
+- BNC. It connects and disconnects easily. It is used for coaxial cable.
