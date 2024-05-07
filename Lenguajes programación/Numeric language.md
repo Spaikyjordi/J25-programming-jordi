@@ -23,7 +23,7 @@ So:
 - 1 **MByte** = 1 MB = 1024 kB = 2^10 kB = 2^20 B
 - 1 **GByte** = 1024 MB = 2^10 MB = 2^30 bytes = 2^33bits
 - 1 **TByte** = 1024 GB = 2^40B = 2^43 bits
-## Adbantages and disadvantages
+## Advantages and disadvantages
 - It is really easy to do a binary circuit
 
 
