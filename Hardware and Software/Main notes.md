@@ -205,3 +205,21 @@ When you turn off the computer, the data stored in the RAM is erased, unlike har
 
 
 ![download](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/e0052fb7-c6c7-48a3-9646-20ab5dd2b9f0)
+### HDD and SSD
+
+In a computer's hard disk drive (HDD), the data of the computer is stored. In this last decade, solid-state drives (SSD) have appeared. HDDs compared to SSDs are slower, but some people prefer HDDs because they seem to be more secure.
+
+
+In addition to being faster than hard drives, SSD cards are substantially much smaller. This leaves space for other components or for making smaller PC builds.
+
+
+**SSD**
+
+
+An SSD is a storage device that, unlike hard disk drives, uses non-volatile memory (Flash) to store and access data. In other words: it has no mechanical parts.
+
+
+Since SSDs have no mechanical parts, they are less prone to failure due to shocks, vibrations, or mechanical wear compared to HDDs. This makes them better suited for use in portable devices and places where durability is important. That's why desktop computers usually have hard disk drives (HDD), while laptops have solid-state drives (SSD).
+
+
+SSDs are also much quieter than HDDs because they have no mechanical parts. Besides being quieter, they have much higher electrical efficiency than HDDs.
