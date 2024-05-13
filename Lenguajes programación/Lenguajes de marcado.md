@@ -94,6 +94,8 @@ URL = Uniform Resource Locator. "URL" is different from a Link:
 
 After a question mark (?) in a URL, variables come, usually found in YouTube URLs:
 - https://www.youtube.com/watch?v=t2os_1fMGZQ
+
+
 What each part does:
 - https:// → Protocol
 - www → Subdomain
@@ -113,4 +115,35 @@ Computer → AP (Access Point) → Router → ISP (Internet Service Provider) �
 Computer, AP, Router: Local networks (Wi-Fi/Physical)
 ISP, DNS, Server: Non-physical components
 
-### 
+### Wi-Fi Arquitecture
+Not only on the internet but also applicable to other connections.
+
+
+![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/32a35a69-4a55-4919-8c9a-fe1e3974f3e0)
+
+### Example with Brawl Stars
+![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/fd84a00f-9e6f-4fc4-a53e-a424fa92561b)
+
+
+The arquitecture that brawl stars use is the next one:
+- P2P (Peer-to-Peer)
+  - Git torrent
+- Peer-to-peer
+  - Decentralized
+  - Port-to-port
+    - Among equals
+- System for sharing data
+  - Client and server at the same time
+
+
+![BrawlStarsSpikeGIF (2)](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/15894b1d-34d2-490c-96ae-9fbce92a3ee5)
+### Network Hardware
+- Access Point → Only Wi-Fi
+- Switch → Connect via Cable, different computers
+- Router → Routing
+  - Gateway between networks
+- Wi-Fi:
+  - Signal through the air
+
+
+![DwightTheOfficeGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/e5ce5207-05d4-454c-b41d-c86a26208bb0)
