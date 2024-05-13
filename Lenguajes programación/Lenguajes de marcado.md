@@ -80,14 +80,37 @@ Dynamic web pages are made by the server in real-time, depending on what users d
 ![SeriousFaceGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/bed87010-1af8-401d-ba8f-5eda194ca06d)
 
 ## Networks
+### Architecture:
+- Client-server
+  - Client-side:
+    - Requests (request) → URL
+  - Server-side:
+    - Responds to the client
+
+
+URL = Uniform Resource Locator. "URL" is different from a Link:
+- The link takes you to the URL
+
+
+After a question mark (?) in a URL, variables come, usually found in YouTube URLs:
+- https://www.youtube.com/watch?v=t2os_1fMGZQ
+What each part does:
+- https:// → Protocol
+- www → Subdomain
+- youtube.com → Domain
+- /watch → Path
+- ?V= Oz230zoewnfaz: After the ?, variables come
+### Different networks
 - **Internet**
   - Physical network of interconnected computers (Hardware)
 - **World Wide Web**
   - Resources (software, data) stored on the internet
 
-## Wi-Fi
+### Wi-Fi
 Computer → AP (Access Point) → Router → ISP (Internet Service Provider) → DNS Server → Server (Google or whatever you searched for)
 
 
 Computer, AP, Router: Local networks (Wi-Fi/Physical)
 ISP, DNS, Server: Non-physical components
+
+### 
