@@ -56,22 +56,22 @@ Paula
 ## Dinamic and static web pages
 ### Static
 
-Static web pages are kinda like ready-made and delivered exactly as they're saved on the server. They're made using HTML, CSS, and sometimes JavaScript, and they pretty much stay the same unless a developer manually changes them.
+Static web pages are what you see is what you get. They're made using HTML, CSS, and sometimes JavaScript, and they pretty much stay the same unless someone edits the code behind it.
 
 
 **Characteristics**:
-- Fast loading speeds: Since they're pre-made, static pages load up super fast because they don't need any processing on the server side.
-- Simple to Keep Up: They're easy to create and manage because they're usually just simple HTML files.
-- Not Super Interactive: Static pages can't really change or update content based on what users do or any other outside factors.
+- Fast loading speeds: Since they're pre-made, static pages load up super fast because they don't need any processing since they are stored in the server.
+- Simple to Keep Up: They're easy to create and to manage because they're usually just simple HTML files.
+- Not Super Interactive: Static pages can't really change or update content based on what users do, they can change if you change the code.
 
 
 ### Dynamic 
 
 
-Dynamic web pages are made by the server in real-time, depending on what users do or other stuff happening. They usually run on server-side technologies like PHP, Python, Ruby, or Node.js, which let them change stuff and interact with users.
+Dynamic web pages are made by the server in real-time, depending on what users do. They usually run on server-side technologies like PHP, Python, Ruby, or Node.js, which let them change things in real-time and interact with users.
 
 
 **Characteristics**:
-- Personalized Content: They can dish out personalized content based on what users like or where they're at.
-- Database Tricks: Dynamic pages can talk to databases to grab or store info, which is handy for things like user logins, managing content, and online shopping.
+- Personalized Content: They can dish out personalized content based on what users like or where they're at (cookies).
+- Database: Dynamic pages can talk to databases to grab or store info, which is handy for things like user logins, managing content, and online shopping.
 - Interactive and Fun: These pages can respond to what users do right away, so they're great for things like online forms, searching stuff, and getting real-time updates.
