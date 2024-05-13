@@ -33,13 +33,13 @@ The code behind this rudimentary web is this one (for you to see an example):
 Identation is adding space or tabs at the beginning of a line of text to visually distinguish it from the other lines. It also makes it easier to understand.
 
 
-Example of idented:
+**Example of idented**:
 - Blabla bla
   - So bla bla bla
   - Blublu blu
 
 
-Example without identation:
+**Example without identation**:
 
 
 Capitulo blabla bla
@@ -52,3 +52,26 @@ Pedro
 
 
 Paula
+
+## Dinamic and static web pages
+### Static
+
+Static web pages are kinda like ready-made and delivered exactly as they're saved on the server. They're made using HTML, CSS, and sometimes JavaScript, and they pretty much stay the same unless a developer manually changes them.
+
+
+**Characteristics**:
+- Fast loading speeds: Since they're pre-made, static pages load up super fast because they don't need any processing on the server side.
+- Simple to Keep Up: They're easy to create and manage because they're usually just simple HTML files.
+- Not Super Interactive: Static pages can't really change or update content based on what users do or any other outside factors.
+
+
+### Dynamic 
+
+
+Dynamic web pages are made by the server in real-time, depending on what users do or other stuff happening. They usually run on server-side technologies like PHP, Python, Ruby, or Node.js, which let them change stuff and interact with users.
+
+
+**Characteristics**:
+- Personalized Content: They can dish out personalized content based on what users like or where they're at.
+- Database Tricks: Dynamic pages can talk to databases to grab or store info, which is handy for things like user logins, managing content, and online shopping.
+- Interactive and Fun: These pages can respond to what users do right away, so they're great for things like online forms, searching stuff, and getting real-time updates.
