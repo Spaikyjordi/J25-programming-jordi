@@ -30,7 +30,7 @@ The code behind this rudimentary web is this one (for you to see an example):
 ![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/cd87e597-1f12-446a-ab43-7d85648123ac)
 
 ## Identation
-Identation is adding space or tabs at the beginning of a line of text to visually distinguish it from the other lines.
+Identation is adding space or tabs at the beginning of a line of text to visually distinguish it from the other lines. It also makes it easier to understand.
 
 
 Example of idented:
@@ -43,6 +43,12 @@ Example without identation:
 
 
 Capitulo blabla bla
+
+
 Blabla personajes
+
+
 Pedro
+
+
 Paula
