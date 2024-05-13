@@ -53,7 +53,7 @@ Pedro
 
 Paula
 
-## Dinamic and static web pages
+## Static and dynamic web pages
 ### Static
 
 Static web pages are what you see is what you get. They're made using HTML, CSS, and sometimes JavaScript, and they pretty much stay the same unless someone edits the code behind it.
@@ -75,3 +75,19 @@ Dynamic web pages are made by the server in real-time, depending on what users d
 - Personalized Content: They can dish out personalized content based on what users like or where they're at (cookies).
 - Database: Dynamic pages can talk to databases to grab or store info, which is handy for things like user logins, managing content, and online shopping.
 - Interactive and Fun: These pages can respond to what users do right away, so they're great for things like online forms, searching stuff, and getting real-time updates.
+
+
+![SeriousFaceGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/bed87010-1af8-401d-ba8f-5eda194ca06d)
+
+## Networks
+- **Internet**
+  - Physical network of interconnected computers (Hardware)
+- **World Wide Web**
+  - Resources (software, data) stored on the internet
+
+## Wi-Fi
+Computer → AP (Access Point) → Router → ISP (Internet Service Provider) → DNS Server → Server (Google or whatever you searched for)
+
+
+Computer, AP, Router: Local networks (Wi-Fi/Physical)
+ISP, DNS, Server: Non-physical components
