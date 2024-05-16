@@ -155,7 +155,7 @@ The arquitecture that brawl stars use is the next one:
 
 ![DwightTheOfficeGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/e5ce5207-05d4-454c-b41d-c86a26208bb0)
 
-## IT
+## 💻🥸IT💻🥸
 ### What in the world is IT?
 IT is the area or department of a company that is responsible for creating and managing computer and technological systems.
 
