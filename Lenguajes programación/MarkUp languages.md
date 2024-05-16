@@ -205,23 +205,17 @@ IT is the area or department of a company that is responsible for creating and m
 
 - **Pro (Production)**
   - Public, visible to everyone
-### Examples
-**Web Pizzeria:**
+  ### Examples
+- **Web Pizzeria:**
+  - Local -> Test -> PRO
 
 
-Local -> Test -> PRO
+- **Generalli:**
+  - Local -> INT -> QA -> PRE -> PRO
 
 
-**Generalli:**
-
-
-Local -> INT -> QA -> PRE -> PRO
-
-
-**World of Warcraft (WoW):**
-
-
-Local -> Test -> PRE -> openBeta -> PRO
+- **World of Warcraft (WoW):**
+  - Local -> Test -> PRE -> openBeta -> PRO
 
 
 *Note: Test and Integration often go hand in hand.*
