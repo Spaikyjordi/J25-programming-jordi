@@ -186,7 +186,24 @@ IT is the area or department of a company that is responsible for creating and m
   
 
 ![download](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/4e79a95d-2dae-410e-aa7a-c46bee81763f)
+## Systems
+- **DBA (Database Admin):** Manages the database system and its maintenance.
+  - *System operative:* Deals with the operating system.
 
+
+- **Systems:** Manages system-related tasks.
+  - *Deployment (Deploy):* Releases and installs software updates.
+  - *System operative:* Manages operating systems.
+  - *Networks:* Manages network hardware.
+    - *Hardware part:* Physical network components.
+  - *Operators:* Monitor and maintain systems and networks.
+
+- **3D:**
+  - **Modelers:** Create 3D models.
+  - **Rigging:** Prepares models for animation.
+    - *Animation of a character with skeletons:* Animates characters.
+  - **VFX (Visual Effects):** Creates CGI and special effects.
+    - *Special effects, CGI:* Various visual effects techniques.
 ## Environments
 
 *Only developers can see this*
@@ -217,5 +234,7 @@ IT is the area or department of a company that is responsible for creating and m
 - **World of Warcraft (WoW):**
   - Local -> Test -> PRE -> openBeta -> PRO
 
+
+![COD-BETA-TOUT](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/80aee490-9896-41d4-9e4d-9f6d16ab6ab1)
 
 *Note: Test and Integration often go hand in hand.*
