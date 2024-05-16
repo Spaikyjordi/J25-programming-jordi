@@ -205,7 +205,7 @@ IT is the area or department of a company that is responsible for creating and m
 
 - **Pro (Production)**
   - Public, visible to everyone
-  ### Examples
+### Examples
 - **Web Pizzeria:**
   - Local -> Test -> PRO
 
