@@ -198,6 +198,7 @@ IT is the area or department of a company that is responsible for creating and m
     - *Hardware part:* Physical network components.
   - *Operators:* Monitor and maintain systems and networks.
 
+
 - **3D:**
   - **Modelers:** Create 3D models.
   - **Rigging:** Prepares models for animation.
