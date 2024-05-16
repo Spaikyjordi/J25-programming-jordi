@@ -65,6 +65,13 @@ Static web pages are what you see is what you get. They're made using HTML, CSS,
 - Not Super Interactive: Static pages can't really change or update content based on what users do, they can change if you change the code.
 
 
+**Examples:**
+- [Space Jam Web](https://www.spacejam.com/1996/jam.htm)
+- [David Prieto Web](https://fabacademy.org/2020/labs/barcelona/students/david-prieto/)
+
+
+![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/b937909f-a6d8-4c11-8a1f-5a1588df3b0a)
+
 ### Dynamic 
 
 
@@ -77,7 +84,7 @@ Dynamic web pages are made by the server in real-time, depending on what users d
 - Interactive and Fun: These pages can respond to what users do right away, so they're great for things like online forms, searching stuff, and getting real-time updates.
 
 
-![SeriousFaceGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/bed87010-1af8-401d-ba8f-5eda194ca06d)
+![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/5821e26f-e8e6-480a-8d67-6d1277364fe5)
 
 ## Networks
 ### Architecture:
@@ -147,3 +154,74 @@ The arquitecture that brawl stars use is the next one:
 
 
 ![DwightTheOfficeGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/e5ce5207-05d4-454c-b41d-c86a26208bb0)
+
+## IT
+### What in the world is IT?
+IT is the area or department of a company that is responsible for creating and managing computer and technological systems.
+
+### Development and Maintenance (of software)
+
+- **Project Manager**
+- **Web Developer:**
+  - *Front end* (what the user sees)
+  - *Back end* (what the user does not see)
+  - *Full stack* (everything)
+-	**Progamador   Analista  Arquitecto de Software**
+  - **Programmer**
+    - Codes
+  - **Analyst**
+    - Designs the code
+    - Reviews the code
+  - **Software Architect**
+    - Outlines the main lines
+- **QA:**
+  - *Quality Assurance* (They don't necessarily have to know how to program)
+  - Quality department
+    - Review the program
+- **DBA**
+  - *Data Base Admin*
+  - Maintenance personnel
+  - *Sysof*
+    - System operative
+  
+
+![download](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/4e79a95d-2dae-410e-aa7a-c46bee81763f)
+
+## Environments
+
+- *Only developers can see this*
+
+- **Local Environment**
+  - Developer's computer
+
+- **INT (Integration)**
+  - Integration of programs with each other
+  - Fake data
+
+- **Pre (Pre-production)**
+  - Staging
+  - Real data
+    - *QA (quality assurance)*
+
+- **Pro (Production)**
+  - Public, visible to everyone
+### Examples
+**Web Pizzeria:**
+
+
+Local -> Test -> PRO
+
+
+**Generalli:**
+
+
+Local -> INT -> QA -> PRE -> PRO
+
+
+**World of Warcraft (WoW):**
+
+
+Local -> Test -> PRE -> openBeta -> PRO
+
+
+*Note: Test and Integration often go hand in hand.*
