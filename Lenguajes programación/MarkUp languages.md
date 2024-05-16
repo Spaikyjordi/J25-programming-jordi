@@ -189,7 +189,7 @@ IT is the area or department of a company that is responsible for creating and m
 
 ## Environments
 
-- *Only developers can see this*
+*Only developers can see this*
 
 - **Local Environment**
   - Developer's computer
