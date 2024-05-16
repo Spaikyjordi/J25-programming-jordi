@@ -192,11 +192,11 @@ IT is the area or department of a company that is responsible for creating and m
 
 
 - **Systems:** Manages system-related tasks.
-  - *Deployment (Deploy):* Releases and installs software updates.
-  - *System operative:* Manages operating systems.
-  - *Networks:* Manages network hardware.
-    - *Hardware part:* Physical network components.
-  - *Operators:* Monitor and maintain systems and networks.
+  - **Deployment (Deploy):** Releases and installs software updates.
+  - **System operative:** Manages operating systems.
+  - **Networks:** Manages network hardware.
+    - **Hardware part:** Physical network components.
+  - **Operators:** Monitor and maintain systems and networks.
 
 
 - **3D:**
