@@ -166,7 +166,7 @@ IT is the area or department of a company that is responsible for creating and m
   - *Front end* (what the user sees)
   - *Back end* (what the user does not see)
   - *Full stack* (everything)
--	**Progamador   Analista  Arquitecto de Software**
+-	**Progamador -> Analista -> Arquitecto de Software**
   - **Programmer**
     - Codes
   - **Analyst**
